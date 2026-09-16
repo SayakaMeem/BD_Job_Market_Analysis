@@ -1,0 +1,501 @@
+job_id,title,company,location,salary_min,salary_max,salary_raw,experience_years,skills_raw,education,posted_date,source,salary_avg,has_sql,has_power_bi,has_excel,has_python,has_tableau,has_fabric,has_etl,has_dashboard,has_statistics,exp_bucket,salary_bucket
+BDJ-1000,BI Analyst,Grameenphone,Dhaka,35000.0,55000.0,Tk. 35000-55000,2,"Excel, SQL, Dashboard, ETL",BBA/MBA,2026-09-07,bdjobs,45000.0,1,0,1,0,0,0,1,1,0,Mid (2-3),35-50k
+BDJ-1001,Growth Data Analyst,ACI,Dhaka,,,Negotiable,4,"SQL, Power BI, Excel",BBA/MBA,2026-09-02,careerjet,,1,1,1,0,0,0,0,0,0,Senior (4+),Negotiable
+BDJ-1002,Data Analyst - Power BI,Chaldal,Dhaka,40000.0,60000.0,Tk. 40000-60000,2,"Power BI, Microsoft Fabric, SQL, Dashboard",BSc in CSE/Stats,2026-08-25,linkedin,50000.0,1,1,0,0,0,1,0,1,0,Mid (2-3),50-70k
+BDJ-1003,Data Analyst - Power BI,PalmPay,Dhaka,,,Negotiable,1,"Excel, SQL, Dashboard, ETL",BBA/MBA,2026-09-04,bdjobs,,1,0,1,0,0,0,1,1,0,Fresher (0-1),Negotiable
+BDJ-1004,Sales Data Analyst,ACI,Chittagong,,,Negotiable,4,"SQL, Excel, Power BI, Looker",MSc,2026-09-05,linkedin,,1,1,1,0,0,0,0,0,0,Senior (4+),Negotiable
+BDJ-1005,Sales Data Analyst,Rokomari,Dhaka,,,Negotiable,3,"SQL, Power BI, Excel",BBA/MBA,2026-08-27,bdjobs,,1,1,1,0,0,0,0,0,0,Mid (2-3),Negotiable
+BDJ-1006,Growth Data Analyst,bKash,Dhaka,35000.0,55000.0,Tk. 35000-55000,0,"SQL, Power BI, Excel",BBA/MBA,2026-08-06,careerjet,45000.0,1,1,1,0,0,0,0,0,0,Fresher (0-1),35-50k
+BDJ-1007,MIS Executive,bKash,Dhaka,25000.0,40000.0,Tk. 25000-40000,2,"Python, SQL, Statistics, Power BI",BSc in CSE/Stats,2026-08-12,careerjet,32500.0,1,1,0,1,0,0,0,0,1,Mid (2-3),25-35k
+BDJ-1008,Growth Data Analyst,bKash,Dhaka,35000.0,55000.0,Tk. 35000-55000,4,"SQL, Excel, Power BI, Looker",BSc in CSE/Stats,2026-08-09,bdjobs,45000.0,1,1,1,0,0,0,0,0,0,Senior (4+),35-50k
+BDJ-1009,Business Intelligence Analyst,Daraz,Chittagong,,,Negotiable,4,"Power BI, Microsoft Fabric, SQL, Dashboard",BSc in CSE/Stats,2026-08-21,careerjet,,1,1,0,0,0,1,0,1,0,Senior (4+),Negotiable
+BDJ-1010,Growth Data Analyst,Rokomari,Dhaka,50000.0,65000.0,Tk. 50000-65000,4,"Python, SQL, Statistics, Power BI",BBA/MBA,2026-08-24,careerjet,57500.0,1,1,0,1,0,0,0,0,1,Senior (4+),50-70k
+BDJ-1011,Data Analyst,Banglalink,Sylhet,25000.0,35000.0,Tk. 25000-35000,0,"SQL, Power BI, Excel",BBA/MBA,2026-08-11,linkedin,30000.0,1,1,1,0,0,0,0,0,0,Fresher (0-1),25-35k
+BDJ-1012,Data Analyst,Daraz,Dhaka,,,Negotiable,4,"Power BI, Microsoft Fabric, SQL, Dashboard",BBA/MBA,2026-08-15,bdjobs,,1,1,0,0,0,1,0,1,0,Senior (4+),Negotiable
+BDJ-1013,Data Analyst,Banglalink,Dhaka,18000.0,33000.0,Tk. 18000-33000,2,"Excel, SQL, Dashboard, ETL",BSc in CSE/Stats,2026-08-04,linkedin,25500.0,1,0,1,0,0,0,1,1,0,Mid (2-3),25-35k
+BDJ-1014,Data Analyst,Banglalink,Remote,20000.0,30000.0,Tk. 20000-30000,2,"Power BI, Microsoft Fabric, SQL, Dashboard",MSc,2026-08-09,careerjet,25000.0,1,1,0,0,0,1,0,1,0,Mid (2-3),25-35k
+BDJ-1015,Data Analyst - Power BI,Rokomari,Dhaka,,,Negotiable,2,"SQL, Python, Tableau, Excel",BBA/MBA,2026-08-09,linkedin,,1,0,1,1,1,0,0,0,0,Mid (2-3),Negotiable
+BDJ-1016,Data Analyst - Power BI,BRAC Bank,Dhaka,,,Negotiable,1,"Excel, SQL, Dashboard, ETL",BSc in CSE/Stats,2026-08-29,careerjet,,1,0,1,0,0,0,1,1,0,Fresher (0-1),Negotiable
+BDJ-1017,BI Analyst,Banglalink,Dhaka,50000.0,60000.0,Tk. 50000-60000,5,"SQL, Power BI, Excel",MSc,2026-08-07,careerjet,55000.0,1,1,1,0,0,0,0,0,0,Senior (4+),50-70k
+BDJ-1018,Growth Data Analyst,Pathao,Dhaka,,,Negotiable,0,"Excel, SQL, Dashboard, ETL",MSc,2026-08-16,linkedin,,1,0,1,0,0,0,1,1,0,Fresher (0-1),Negotiable
+BDJ-1019,MIS Executive,Grameenphone,Dhaka,,,Negotiable,4,"Python, SQL, Statistics, Power BI",BSc in CSE/Stats,2026-09-03,careerjet,,1,1,0,1,0,0,0,0,1,Senior (4+),Negotiable
+BDJ-1020,MIS Executive,Grameenphone,Dhaka,,,Negotiable,1,"Python, SQL, Statistics, Power BI",BBA/MBA,2026-08-21,careerjet,,1,1,0,1,0,0,0,0,1,Fresher (0-1),Negotiable
+BDJ-1021,BI Analyst,BRAC Bank,Dhaka,25000.0,40000.0,Tk. 25000-40000,1,"Python, SQL, Statistics, Power BI",BBA/MBA,2026-09-01,bdjobs,32500.0,1,1,0,1,0,0,0,0,1,Fresher (0-1),25-35k
+BDJ-1022,MIS Executive,Well Group,Dhaka,18000.0,28000.0,Tk. 18000-28000,1,"SQL, Power BI, Excel",MSc,2026-09-13,bdjobs,23000.0,1,1,1,0,0,0,0,0,0,Fresher (0-1),15-25k
+BDJ-1023,Data Analyst,Rokomari,Dhaka,18000.0,33000.0,Tk. 18000-33000,3,"SQL, Power BI, Excel",MSc,2026-09-08,careerjet,25500.0,1,1,1,0,0,0,0,0,0,Mid (2-3),25-35k
+BDJ-1024,Growth Data Analyst,Pathao,Dhaka,35000.0,45000.0,Tk. 35000-45000,3,"Excel, SQL, Dashboard, ETL",MSc,2026-08-26,linkedin,40000.0,1,0,1,0,0,0,1,1,0,Mid (2-3),35-50k
+BDJ-1025,Junior Data Analyst,Rokomari,Dhaka,,,Negotiable,3,"Power BI, Microsoft Fabric, SQL, Dashboard",MSc,2026-09-06,linkedin,,1,1,0,0,0,1,0,1,0,Mid (2-3),Negotiable
+BDJ-1026,Business Intelligence Analyst,PalmPay,Remote,50000.0,60000.0,Tk. 50000-60000,2,"SQL, Python, Tableau, Excel",MSc,2026-09-08,bdjobs,55000.0,1,0,1,1,1,0,0,0,0,Mid (2-3),50-70k
+BDJ-1027,Data Analyst - Power BI,Daraz,Dhaka,35000.0,45000.0,Tk. 35000-45000,4,"SQL, Excel, Power BI, Looker",MSc,2026-08-28,bdjobs,40000.0,1,1,1,0,0,0,0,0,0,Senior (4+),35-50k
+BDJ-1028,Data Analyst,BRAC Bank,Dhaka,,,Negotiable,5,"Excel, SQL, Dashboard, ETL",MSc,2026-08-22,careerjet,,1,0,1,0,0,0,1,1,0,Senior (4+),Negotiable
+BDJ-1029,MIS Executive,Well Group,Sylhet,,,Negotiable,2,"Excel, SQL, Dashboard, ETL",BBA/MBA,2026-08-23,careerjet,,1,0,1,0,0,0,1,1,0,Mid (2-3),Negotiable
+BDJ-1030,BI Analyst,Rokomari,Remote,50000.0,70000.0,Tk. 50000-70000,2,"Power BI, Microsoft Fabric, SQL, Dashboard",BSc in CSE/Stats,2026-08-16,bdjobs,60000.0,1,1,0,0,0,1,0,1,0,Mid (2-3),50-70k
+BDJ-1031,Growth Data Analyst,Banglalink,Dhaka,18000.0,28000.0,Tk. 18000-28000,3,"SQL, Excel, Power BI, Looker",BBA/MBA,2026-08-11,linkedin,23000.0,1,1,1,0,0,0,0,0,0,Mid (2-3),15-25k
+BDJ-1032,Junior Data Analyst,Daraz,Dhaka,,,Negotiable,2,"SQL, Excel, Power BI, Looker",BBA/MBA,2026-09-01,careerjet,,1,1,1,0,0,0,0,0,0,Mid (2-3),Negotiable
+BDJ-1033,BI Analyst,BRAC Bank,Dhaka,,,Negotiable,2,"Excel, SQL, Dashboard, ETL",BSc in CSE/Stats,2026-09-01,bdjobs,,1,0,1,0,0,0,1,1,0,Mid (2-3),Negotiable
+BDJ-1034,Sales Data Analyst,Rokomari,Chittagong,25000.0,45000.0,Tk. 25000-45000,2,"Power BI, Microsoft Fabric, SQL, Dashboard",MSc,2026-09-14,linkedin,35000.0,1,1,0,0,0,1,0,1,0,Mid (2-3),35-50k
+BDJ-1035,Data Analyst,Daraz,Dhaka,50000.0,65000.0,Tk. 50000-65000,4,"Python, SQL, Statistics, Power BI",BSc in CSE/Stats,2026-08-26,careerjet,57500.0,1,1,0,1,0,0,0,0,1,Senior (4+),50-70k
+BDJ-1036,Junior Data Analyst,Chaldal,Dhaka,50000.0,60000.0,Tk. 50000-60000,3,"SQL, Excel, Power BI, Looker",MSc,2026-08-27,linkedin,55000.0,1,1,1,0,0,0,0,0,0,Mid (2-3),50-70k
+BDJ-1037,Junior Data Analyst,Rokomari,Dhaka,50000.0,70000.0,Tk. 50000-70000,2,"SQL, Excel, Power BI, Looker",MSc,2026-08-12,careerjet,60000.0,1,1,1,0,0,0,0,0,0,Mid (2-3),50-70k
+BDJ-1038,Sales Data Analyst,Banglalink,Dhaka,,,Negotiable,1,"SQL, Excel, Power BI, Looker",BSc in CSE/Stats,2026-08-30,bdjobs,,1,1,1,0,0,0,0,0,0,Fresher (0-1),Negotiable
+BDJ-1039,Growth Data Analyst,Pathao,Dhaka,35000.0,55000.0,Tk. 35000-55000,1,"SQL, Excel, Power BI, Looker",BBA/MBA,2026-09-15,linkedin,45000.0,1,1,1,0,0,0,0,0,0,Fresher (0-1),35-50k
+BDJ-1040,MIS Executive,bKash,Sylhet,25000.0,45000.0,Tk. 25000-45000,0,"Power BI, Microsoft Fabric, SQL, Dashboard",MSc,2026-09-06,careerjet,35000.0,1,1,0,0,0,1,0,1,0,Fresher (0-1),35-50k
+BDJ-1041,Data Analyst - Power BI,Grameenphone,Dhaka,20000.0,40000.0,Tk. 20000-40000,5,"Excel, SQL, Dashboard, ETL",MSc,2026-09-10,careerjet,30000.0,1,0,1,0,0,0,1,1,0,Senior (4+),25-35k
+BDJ-1042,Sales Data Analyst,Grameenphone,Dhaka,18000.0,38000.0,Tk. 18000-38000,3,"SQL, Excel, Power BI, Looker",BBA/MBA,2026-09-01,bdjobs,28000.0,1,1,1,0,0,0,0,0,0,Mid (2-3),25-35k
+BDJ-1043,Sales Data Analyst,Well Group,Dhaka,40000.0,55000.0,Tk. 40000-55000,2,"SQL, Power BI, Excel",BBA/MBA,2026-09-06,bdjobs,47500.0,1,1,1,0,0,0,0,0,0,Mid (2-3),35-50k
+BDJ-1044,Junior Data Analyst,Pathao,Chittagong,20000.0,30000.0,Tk. 20000-30000,3,"SQL, Python, Tableau, Excel",BBA/MBA,2026-08-03,bdjobs,25000.0,1,0,1,1,1,0,0,0,0,Mid (2-3),25-35k
+BDJ-1045,Data Analyst,ACI,Dhaka,40000.0,60000.0,Tk. 40000-60000,2,"Python, SQL, Statistics, Power BI",BBA/MBA,2026-08-04,careerjet,50000.0,1,1,0,1,0,0,0,0,1,Mid (2-3),50-70k
+BDJ-1046,Growth Data Analyst,Banglalink,Chittagong,50000.0,70000.0,Tk. 50000-70000,1,"Excel, SQL, Dashboard, ETL",BBA/MBA,2026-08-11,bdjobs,60000.0,1,0,1,0,0,0,1,1,0,Fresher (0-1),50-70k
+BDJ-1047,Data Analyst,Grameenphone,Dhaka,,,Negotiable,5,"SQL, Power BI, Excel",BSc in CSE/Stats,2026-08-10,linkedin,,1,1,1,0,0,0,0,0,0,Senior (4+),Negotiable
+BDJ-1048,Growth Data Analyst,Foodpanda,Remote,18000.0,33000.0,Tk. 18000-33000,4,"Power BI, Microsoft Fabric, SQL, Dashboard",BBA/MBA,2026-08-19,careerjet,25500.0,1,1,0,0,0,1,0,1,0,Senior (4+),25-35k
+BDJ-1049,Data Analyst - Power BI,Well Group,Dhaka,35000.0,55000.0,Tk. 35000-55000,1,"SQL, Excel, Power BI, Looker",BBA/MBA,2026-09-01,bdjobs,45000.0,1,1,1,0,0,0,0,0,0,Fresher (0-1),35-50k
+BDJ-1050,Business Intelligence Analyst,Banglalink,Dhaka,,,Negotiable,4,"Excel, SQL, Dashboard, ETL",BBA/MBA,2026-08-17,bdjobs,,1,0,1,0,0,0,1,1,0,Senior (4+),Negotiable
+BDJ-1051,BI Analyst,bKash,Dhaka,,,Negotiable,3,"SQL, Python, Tableau, Excel",BBA/MBA,2026-08-05,linkedin,,1,0,1,1,1,0,0,0,0,Mid (2-3),Negotiable
+BDJ-1052,Junior Data Analyst,bKash,Dhaka,,,Negotiable,5,"Excel, SQL, Dashboard, ETL",BSc in CSE/Stats,2026-08-19,careerjet,,1,0,1,0,0,0,1,1,0,Senior (4+),Negotiable
+BDJ-1053,Business Intelligence Analyst,Foodpanda,Chittagong,,,Negotiable,2,"Power BI, Microsoft Fabric, SQL, Dashboard",MSc,2026-08-22,careerjet,,1,1,0,0,0,1,0,1,0,Mid (2-3),Negotiable
+BDJ-1054,Growth Data Analyst,ACI,Sylhet,25000.0,35000.0,Tk. 25000-35000,3,"SQL, Excel, Power BI, Looker",MSc,2026-08-12,linkedin,30000.0,1,1,1,0,0,0,0,0,0,Mid (2-3),25-35k
+BDJ-1055,Junior Data Analyst,bKash,Remote,50000.0,65000.0,Tk. 50000-65000,1,"SQL, Python, Tableau, Excel",BBA/MBA,2026-08-24,bdjobs,57500.0,1,0,1,1,1,0,0,0,0,Fresher (0-1),50-70k
+BDJ-1056,Growth Data Analyst,Chaldal,Dhaka,18000.0,38000.0,Tk. 18000-38000,5,"Excel, SQL, Dashboard, ETL",MSc,2026-08-20,bdjobs,28000.0,1,0,1,0,0,0,1,1,0,Senior (4+),25-35k
+BDJ-1057,Sales Data Analyst,Grameenphone,Dhaka,,,Negotiable,5,"Excel, SQL, Dashboard, ETL",BSc in CSE/Stats,2026-09-15,bdjobs,,1,0,1,0,0,0,1,1,0,Senior (4+),Negotiable
+BDJ-1058,Data Analyst,Grameenphone,Dhaka,18000.0,28000.0,Tk. 18000-28000,5,"Excel, SQL, Dashboard, ETL",MSc,2026-09-13,careerjet,23000.0,1,0,1,0,0,0,1,1,0,Senior (4+),15-25k
+BDJ-1059,Business Intelligence Analyst,bKash,Sylhet,50000.0,60000.0,Tk. 50000-60000,0,"Python, SQL, Statistics, Power BI",BSc in CSE/Stats,2026-08-25,bdjobs,55000.0,1,1,0,1,0,0,0,0,1,Fresher (0-1),50-70k
+BDJ-1060,Data Analyst - Power BI,Banglalink,Remote,18000.0,28000.0,Tk. 18000-28000,5,"SQL, Power BI, Excel",MSc,2026-09-01,bdjobs,23000.0,1,1,1,0,0,0,0,0,0,Senior (4+),15-25k
+BDJ-1061,Sales Data Analyst,BRAC Bank,Dhaka,35000.0,50000.0,Tk. 35000-50000,1,"SQL, Python, Tableau, Excel",BBA/MBA,2026-08-05,careerjet,42500.0,1,0,1,1,1,0,0,0,0,Fresher (0-1),35-50k
+BDJ-1062,Junior Data Analyst,Grameenphone,Chittagong,18000.0,33000.0,Tk. 18000-33000,0,"Python, SQL, Statistics, Power BI",MSc,2026-08-04,careerjet,25500.0,1,1,0,1,0,0,0,0,1,Fresher (0-1),25-35k
+BDJ-1063,Growth Data Analyst,Grameenphone,Dhaka,25000.0,35000.0,Tk. 25000-35000,4,"SQL, Power BI, Excel",MSc,2026-08-13,careerjet,30000.0,1,1,1,0,0,0,0,0,0,Senior (4+),25-35k
+BDJ-1064,Business Intelligence Analyst,Well Group,Dhaka,,,Negotiable,2,"Python, SQL, Statistics, Power BI",BSc in CSE/Stats,2026-08-24,linkedin,,1,1,0,1,0,0,0,0,1,Mid (2-3),Negotiable
+BDJ-1065,Data Analyst - Power BI,Pathao,Dhaka,18000.0,33000.0,Tk. 18000-33000,3,"SQL, Power BI, Excel",BBA/MBA,2026-08-15,bdjobs,25500.0,1,1,1,0,0,0,0,0,0,Mid (2-3),25-35k
+BDJ-1066,Sales Data Analyst,Grameenphone,Dhaka,50000.0,60000.0,Tk. 50000-60000,5,"Excel, SQL, Dashboard, ETL",MSc,2026-09-03,careerjet,55000.0,1,0,1,0,0,0,1,1,0,Senior (4+),50-70k
+BDJ-1067,Sales Data Analyst,Pathao,Dhaka,40000.0,50000.0,Tk. 40000-50000,1,"Excel, SQL, Dashboard, ETL",BSc in CSE/Stats,2026-08-13,careerjet,45000.0,1,0,1,0,0,0,1,1,0,Fresher (0-1),35-50k
+BDJ-1068,Business Intelligence Analyst,ACI,Dhaka,50000.0,60000.0,Tk. 50000-60000,4,"Excel, SQL, Dashboard, ETL",MSc,2026-08-27,careerjet,55000.0,1,0,1,0,0,0,1,1,0,Senior (4+),50-70k
+BDJ-1069,MIS Executive,Well Group,Dhaka,,,Negotiable,5,"SQL, Python, Tableau, Excel",BBA/MBA,2026-08-04,linkedin,,1,0,1,1,1,0,0,0,0,Senior (4+),Negotiable
+BDJ-1070,Data Analyst,ACI,Dhaka,20000.0,35000.0,Tk. 20000-35000,0,"SQL, Excel, Power BI, Looker",BSc in CSE/Stats,2026-08-19,bdjobs,27500.0,1,1,1,0,0,0,0,0,0,Fresher (0-1),25-35k
+BDJ-1071,Junior Data Analyst,Daraz,Dhaka,,,Negotiable,5,"SQL, Power BI, Excel",MSc,2026-08-25,careerjet,,1,1,1,0,0,0,0,0,0,Senior (4+),Negotiable
+BDJ-1072,Junior Data Analyst,Grameenphone,Sylhet,20000.0,35000.0,Tk. 20000-35000,3,"Python, SQL, Statistics, Power BI",MSc,2026-08-10,linkedin,27500.0,1,1,0,1,0,0,0,0,1,Mid (2-3),25-35k
+BDJ-1073,Data Analyst,bKash,Dhaka,,,Negotiable,2,"SQL, Python, Tableau, Excel",BSc in CSE/Stats,2026-08-21,bdjobs,,1,0,1,1,1,0,0,0,0,Mid (2-3),Negotiable
+BDJ-1074,BI Analyst,Grameenphone,Dhaka,,,Negotiable,2,"SQL, Excel, Power BI, Looker",MSc,2026-08-15,careerjet,,1,1,1,0,0,0,0,0,0,Mid (2-3),Negotiable
+BDJ-1075,Data Analyst - Power BI,PalmPay,Dhaka,50000.0,65000.0,Tk. 50000-65000,0,"Excel, SQL, Dashboard, ETL",MSc,2026-08-16,bdjobs,57500.0,1,0,1,0,0,0,1,1,0,Fresher (0-1),50-70k
+BDJ-1076,Sales Data Analyst,bKash,Dhaka,20000.0,30000.0,Tk. 20000-30000,0,"SQL, Power BI, Excel",BBA/MBA,2026-09-07,bdjobs,25000.0,1,1,1,0,0,0,0,0,0,Fresher (0-1),25-35k
+BDJ-1077,Growth Data Analyst,Well Group,Dhaka,35000.0,55000.0,Tk. 35000-55000,2,"SQL, Power BI, Excel",BSc in CSE/Stats,2026-09-13,linkedin,45000.0,1,1,1,0,0,0,0,0,0,Mid (2-3),35-50k
+BDJ-1078,Junior Data Analyst,Chaldal,Chittagong,50000.0,60000.0,Tk. 50000-60000,5,"Power BI, Microsoft Fabric, SQL, Dashboard",MSc,2026-09-03,bdjobs,55000.0,1,1,0,0,0,1,0,1,0,Senior (4+),50-70k
+BDJ-1079,Data Analyst,Pathao,Dhaka,20000.0,35000.0,Tk. 20000-35000,5,"SQL, Python, Tableau, Excel",MSc,2026-08-15,careerjet,27500.0,1,0,1,1,1,0,0,0,0,Senior (4+),25-35k
+BDJ-1080,Junior Data Analyst,Rokomari,Dhaka,25000.0,45000.0,Tk. 25000-45000,3,"SQL, Excel, Power BI, Looker",MSc,2026-09-13,linkedin,35000.0,1,1,1,0,0,0,0,0,0,Mid (2-3),35-50k
+BDJ-1081,Sales Data Analyst,Chaldal,Dhaka,,,Negotiable,3,"SQL, Excel, Power BI, Looker",BSc in CSE/Stats,2026-09-11,linkedin,,1,1,1,0,0,0,0,0,0,Mid (2-3),Negotiable
+BDJ-1082,Data Analyst,ACI,Dhaka,35000.0,45000.0,Tk. 35000-45000,5,"Python, SQL, Statistics, Power BI",MSc,2026-08-11,careerjet,40000.0,1,1,0,1,0,0,0,0,1,Senior (4+),35-50k
+BDJ-1083,Growth Data Analyst,Grameenphone,Dhaka,35000.0,55000.0,Tk. 35000-55000,3,"SQL, Python, Tableau, Excel",BBA/MBA,2026-09-01,bdjobs,45000.0,1,0,1,1,1,0,0,0,0,Mid (2-3),35-50k
+BDJ-1084,Data Analyst - Power BI,Grameenphone,Remote,25000.0,35000.0,Tk. 25000-35000,1,"Python, SQL, Statistics, Power BI",MSc,2026-08-31,careerjet,30000.0,1,1,0,1,0,0,0,0,1,Fresher (0-1),25-35k
+BDJ-1085,BI Analyst,ACI,Dhaka,50000.0,65000.0,Tk. 50000-65000,2,"SQL, Python, Tableau, Excel",BSc in CSE/Stats,2026-08-13,bdjobs,57500.0,1,0,1,1,1,0,0,0,0,Mid (2-3),50-70k
+BDJ-1086,Business Intelligence Analyst,Well Group,Sylhet,50000.0,70000.0,Tk. 50000-70000,2,"Python, SQL, Statistics, Power BI",MSc,2026-08-29,careerjet,60000.0,1,1,0,1,0,0,0,0,1,Mid (2-3),50-70k
+BDJ-1087,Growth Data Analyst,Daraz,Dhaka,20000.0,30000.0,Tk. 20000-30000,3,"SQL, Power BI, Excel",MSc,2026-08-24,bdjobs,25000.0,1,1,1,0,0,0,0,0,0,Mid (2-3),25-35k
+BDJ-1088,Growth Data Analyst,ACI,Sylhet,50000.0,60000.0,Tk. 50000-60000,3,"Excel, SQL, Dashboard, ETL",BSc in CSE/Stats,2026-08-08,careerjet,55000.0,1,0,1,0,0,0,1,1,0,Mid (2-3),50-70k
+BDJ-1089,Data Analyst,bKash,Dhaka,18000.0,38000.0,Tk. 18000-38000,2,"Excel, SQL, Dashboard, ETL",BBA/MBA,2026-08-08,bdjobs,28000.0,1,0,1,0,0,0,1,1,0,Mid (2-3),25-35k
+BDJ-1090,Data Analyst - Power BI,PalmPay,Dhaka,20000.0,30000.0,Tk. 20000-30000,2,"SQL, Python, Tableau, Excel",BSc in CSE/Stats,2026-08-03,linkedin,25000.0,1,0,1,1,1,0,0,0,0,Mid (2-3),25-35k
+BDJ-1091,Growth Data Analyst,Pathao,Dhaka,20000.0,40000.0,Tk. 20000-40000,5,"Python, SQL, Statistics, Power BI",BSc in CSE/Stats,2026-08-04,bdjobs,30000.0,1,1,0,1,0,0,0,0,1,Senior (4+),25-35k
+BDJ-1092,Data Analyst,bKash,Dhaka,20000.0,35000.0,Tk. 20000-35000,2,"Excel, SQL, Dashboard, ETL",MSc,2026-08-11,careerjet,27500.0,1,0,1,0,0,0,1,1,0,Mid (2-3),25-35k
+BDJ-1093,Sales Data Analyst,BRAC Bank,Chittagong,20000.0,35000.0,Tk. 20000-35000,5,"Excel, SQL, Dashboard, ETL",BBA/MBA,2026-08-09,bdjobs,27500.0,1,0,1,0,0,0,1,1,0,Senior (4+),25-35k
+BDJ-1094,Growth Data Analyst,Chaldal,Remote,,,Negotiable,5,"Power BI, Microsoft Fabric, SQL, Dashboard",MSc,2026-08-16,linkedin,,1,1,0,0,0,1,0,1,0,Senior (4+),Negotiable
+BDJ-1095,BI Analyst,PalmPay,Dhaka,35000.0,50000.0,Tk. 35000-50000,0,"SQL, Python, Tableau, Excel",MSc,2026-09-03,linkedin,42500.0,1,0,1,1,1,0,0,0,0,Fresher (0-1),35-50k
+BDJ-1096,Growth Data Analyst,Grameenphone,Dhaka,50000.0,65000.0,Tk. 50000-65000,2,"SQL, Power BI, Excel",MSc,2026-09-09,careerjet,57500.0,1,1,1,0,0,0,0,0,0,Mid (2-3),50-70k
+BDJ-1097,Business Intelligence Analyst,Foodpanda,Dhaka,,,Negotiable,4,"Python, SQL, Statistics, Power BI",MSc,2026-09-06,careerjet,,1,1,0,1,0,0,0,0,1,Senior (4+),Negotiable
+BDJ-1098,Growth Data Analyst,Foodpanda,Chittagong,,,Negotiable,3,"SQL, Python, Tableau, Excel",MSc,2026-09-14,bdjobs,,1,0,1,1,1,0,0,0,0,Mid (2-3),Negotiable
+BDJ-1099,BI Analyst,Daraz,Dhaka,,,Negotiable,3,"SQL, Power BI, Excel",BBA/MBA,2026-08-16,careerjet,,1,1,1,0,0,0,0,0,0,Mid (2-3),Negotiable
+BDJ-1100,Junior Data Analyst,bKash,Remote,40000.0,50000.0,Tk. 40000-50000,1,"Power BI, Microsoft Fabric, SQL, Dashboard",BBA/MBA,2026-09-07,bdjobs,45000.0,1,1,0,0,0,1,0,1,0,Fresher (0-1),35-50k
+BDJ-1101,Junior Data Analyst,Banglalink,Dhaka,40000.0,55000.0,Tk. 40000-55000,3,"SQL, Python, Tableau, Excel",BSc in CSE/Stats,2026-08-21,bdjobs,47500.0,1,0,1,1,1,0,0,0,0,Mid (2-3),35-50k
+BDJ-1102,Sales Data Analyst,Well Group,Chittagong,20000.0,40000.0,Tk. 20000-40000,4,"SQL, Power BI, Excel",MSc,2026-09-13,careerjet,30000.0,1,1,1,0,0,0,0,0,0,Senior (4+),25-35k
+BDJ-1103,Data Analyst,Banglalink,Dhaka,35000.0,45000.0,Tk. 35000-45000,5,"SQL, Excel, Power BI, Looker",BBA/MBA,2026-09-02,linkedin,40000.0,1,1,1,0,0,0,0,0,0,Senior (4+),35-50k
+BDJ-1104,BI Analyst,Foodpanda,Dhaka,35000.0,55000.0,Tk. 35000-55000,0,"SQL, Power BI, Excel",BSc in CSE/Stats,2026-08-15,careerjet,45000.0,1,1,1,0,0,0,0,0,0,Fresher (0-1),35-50k
+BDJ-1105,Junior Data Analyst,Grameenphone,Sylhet,18000.0,28000.0,Tk. 18000-28000,3,"Excel, SQL, Dashboard, ETL",BSc in CSE/Stats,2026-09-08,linkedin,23000.0,1,0,1,0,0,0,1,1,0,Mid (2-3),15-25k
+BDJ-1106,MIS Executive,Grameenphone,Dhaka,50000.0,60000.0,Tk. 50000-60000,3,"Python, SQL, Statistics, Power BI",BSc in CSE/Stats,2026-08-13,linkedin,55000.0,1,1,0,1,0,0,0,0,1,Mid (2-3),50-70k
+BDJ-1107,Business Intelligence Analyst,bKash,Dhaka,20000.0,30000.0,Tk. 20000-30000,5,"SQL, Excel, Power BI, Looker",BSc in CSE/Stats,2026-09-09,bdjobs,25000.0,1,1,1,0,0,0,0,0,0,Senior (4+),25-35k
+BDJ-1108,BI Analyst,BRAC Bank,Dhaka,,,Negotiable,5,"Excel, SQL, Dashboard, ETL",BSc in CSE/Stats,2026-08-18,careerjet,,1,0,1,0,0,0,1,1,0,Senior (4+),Negotiable
+BDJ-1109,Business Intelligence Analyst,bKash,Remote,25000.0,40000.0,Tk. 25000-40000,0,"SQL, Python, Tableau, Excel",MSc,2026-08-30,bdjobs,32500.0,1,0,1,1,1,0,0,0,0,Fresher (0-1),25-35k
+BDJ-1110,Sales Data Analyst,bKash,Chittagong,50000.0,65000.0,Tk. 50000-65000,5,"Python, SQL, Statistics, Power BI",BBA/MBA,2026-09-12,bdjobs,57500.0,1,1,0,1,0,0,0,0,1,Senior (4+),50-70k
+BDJ-1111,Data Analyst,Rokomari,Dhaka,40000.0,50000.0,Tk. 40000-50000,3,"Excel, SQL, Dashboard, ETL",BSc in CSE/Stats,2026-08-08,linkedin,45000.0,1,0,1,0,0,0,1,1,0,Mid (2-3),35-50k
+BDJ-1112,Growth Data Analyst,BRAC Bank,Dhaka,50000.0,65000.0,Tk. 50000-65000,3,"SQL, Power BI, Excel",BSc in CSE/Stats,2026-08-29,bdjobs,57500.0,1,1,1,0,0,0,0,0,0,Mid (2-3),50-70k
+BDJ-1113,Data Analyst - Power BI,Foodpanda,Sylhet,,,Negotiable,3,"Power BI, Microsoft Fabric, SQL, Dashboard",BBA/MBA,2026-08-04,careerjet,,1,1,0,0,0,1,0,1,0,Mid (2-3),Negotiable
+BDJ-1114,Junior Data Analyst,Banglalink,Dhaka,20000.0,30000.0,Tk. 20000-30000,3,"Excel, SQL, Dashboard, ETL",MSc,2026-08-02,careerjet,25000.0,1,0,1,0,0,0,1,1,0,Mid (2-3),25-35k
+BDJ-1115,Growth Data Analyst,ACI,Dhaka,35000.0,45000.0,Tk. 35000-45000,4,"SQL, Excel, Power BI, Looker",MSc,2026-08-17,linkedin,40000.0,1,1,1,0,0,0,0,0,0,Senior (4+),35-50k
+BDJ-1116,Junior Data Analyst,Well Group,Dhaka,35000.0,50000.0,Tk. 35000-50000,2,"Power BI, Microsoft Fabric, SQL, Dashboard",BBA/MBA,2026-08-21,bdjobs,42500.0,1,1,0,0,0,1,0,1,0,Mid (2-3),35-50k
+BDJ-1117,Growth Data Analyst,BRAC Bank,Dhaka,40000.0,60000.0,Tk. 40000-60000,4,"Power BI, Microsoft Fabric, SQL, Dashboard",BSc in CSE/Stats,2026-08-31,linkedin,50000.0,1,1,0,0,0,1,0,1,0,Senior (4+),50-70k
+BDJ-1118,Data Analyst,Well Group,Dhaka,40000.0,60000.0,Tk. 40000-60000,2,"Python, SQL, Statistics, Power BI",BSc in CSE/Stats,2026-08-05,linkedin,50000.0,1,1,0,1,0,0,0,0,1,Mid (2-3),50-70k
+BDJ-1119,Data Analyst - Power BI,Grameenphone,Dhaka,,,Negotiable,2,"Power BI, Microsoft Fabric, SQL, Dashboard",BSc in CSE/Stats,2026-08-04,bdjobs,,1,1,0,0,0,1,0,1,0,Mid (2-3),Negotiable
+BDJ-1120,Data Analyst,Well Group,Dhaka,,,Negotiable,2,"Python, SQL, Statistics, Power BI",BBA/MBA,2026-08-02,careerjet,,1,1,0,1,0,0,0,0,1,Mid (2-3),Negotiable
+BDJ-1121,Sales Data Analyst,BRAC Bank,Dhaka,,,Negotiable,0,"SQL, Power BI, Excel",MSc,2026-08-31,careerjet,,1,1,1,0,0,0,0,0,0,Fresher (0-1),Negotiable
+BDJ-1122,Data Analyst,Rokomari,Chittagong,40000.0,60000.0,Tk. 40000-60000,4,"SQL, Python, Tableau, Excel",BBA/MBA,2026-09-13,careerjet,50000.0,1,0,1,1,1,0,0,0,0,Senior (4+),50-70k
+BDJ-1123,BI Analyst,BRAC Bank,Dhaka,,,Negotiable,3,"Excel, SQL, Dashboard, ETL",BBA/MBA,2026-08-08,linkedin,,1,0,1,0,0,0,1,1,0,Mid (2-3),Negotiable
+BDJ-1124,Growth Data Analyst,Foodpanda,Dhaka,25000.0,40000.0,Tk. 25000-40000,1,"SQL, Excel, Power BI, Looker",BBA/MBA,2026-08-22,bdjobs,32500.0,1,1,1,0,0,0,0,0,0,Fresher (0-1),25-35k
+BDJ-1125,BI Analyst,BRAC Bank,Dhaka,35000.0,55000.0,Tk. 35000-55000,4,"SQL, Power BI, Excel",BBA/MBA,2026-08-24,linkedin,45000.0,1,1,1,0,0,0,0,0,0,Senior (4+),35-50k
+BDJ-1126,Data Analyst,BRAC Bank,Dhaka,25000.0,35000.0,Tk. 25000-35000,2,"SQL, Power BI, Excel",MSc,2026-08-18,linkedin,30000.0,1,1,1,0,0,0,0,0,0,Mid (2-3),25-35k
+BDJ-1127,BI Analyst,Pathao,Dhaka,50000.0,65000.0,Tk. 50000-65000,5,"SQL, Python, Tableau, Excel",MSc,2026-08-03,bdjobs,57500.0,1,0,1,1,1,0,0,0,0,Senior (4+),50-70k
+BDJ-1128,Data Analyst - Power BI,bKash,Dhaka,40000.0,55000.0,Tk. 40000-55000,1,"SQL, Power BI, Excel",BSc in CSE/Stats,2026-09-07,bdjobs,47500.0,1,1,1,0,0,0,0,0,0,Fresher (0-1),35-50k
+BDJ-1129,MIS Executive,Pathao,Chittagong,35000.0,45000.0,Tk. 35000-45000,1,"SQL, Power BI, Excel",BSc in CSE/Stats,2026-08-06,careerjet,40000.0,1,1,1,0,0,0,0,0,0,Fresher (0-1),35-50k
+BDJ-1130,Sales Data Analyst,Grameenphone,Remote,,,Negotiable,0,"Python, SQL, Statistics, Power BI",BBA/MBA,2026-08-20,linkedin,,1,1,0,1,0,0,0,0,1,Fresher (0-1),Negotiable
+BDJ-1131,Business Intelligence Analyst,Foodpanda,Dhaka,18000.0,28000.0,Tk. 18000-28000,3,"SQL, Power BI, Excel",BSc in CSE/Stats,2026-08-26,linkedin,23000.0,1,1,1,0,0,0,0,0,0,Mid (2-3),15-25k
+BDJ-1132,Sales Data Analyst,Foodpanda,Dhaka,25000.0,35000.0,Tk. 25000-35000,4,"Power BI, Microsoft Fabric, SQL, Dashboard",BSc in CSE/Stats,2026-09-10,bdjobs,30000.0,1,1,0,0,0,1,0,1,0,Senior (4+),25-35k
+BDJ-1133,Data Analyst - Power BI,ACI,Dhaka,35000.0,50000.0,Tk. 35000-50000,3,"SQL, Excel, Power BI, Looker",BBA/MBA,2026-09-14,bdjobs,42500.0,1,1,1,0,0,0,0,0,0,Mid (2-3),35-50k
+BDJ-1134,Business Intelligence Analyst,Banglalink,Dhaka,35000.0,50000.0,Tk. 35000-50000,2,"SQL, Power BI, Excel",BSc in CSE/Stats,2026-08-15,linkedin,42500.0,1,1,1,0,0,0,0,0,0,Mid (2-3),35-50k
+BDJ-1135,Business Intelligence Analyst,Banglalink,Dhaka,25000.0,40000.0,Tk. 25000-40000,4,"Excel, SQL, Dashboard, ETL",BBA/MBA,2026-08-31,careerjet,32500.0,1,0,1,0,0,0,1,1,0,Senior (4+),25-35k
+BDJ-1136,Data Analyst,Well Group,Dhaka,25000.0,40000.0,Tk. 25000-40000,1,"SQL, Python, Tableau, Excel",BBA/MBA,2026-08-10,bdjobs,32500.0,1,0,1,1,1,0,0,0,0,Fresher (0-1),25-35k
+BDJ-1137,Data Analyst,BRAC Bank,Dhaka,,,Negotiable,1,"SQL, Python, Tableau, Excel",BSc in CSE/Stats,2026-08-29,linkedin,,1,0,1,1,1,0,0,0,0,Fresher (0-1),Negotiable
+BDJ-1138,Business Intelligence Analyst,ACI,Dhaka,20000.0,40000.0,Tk. 20000-40000,4,"SQL, Power BI, Excel",BBA/MBA,2026-08-13,bdjobs,30000.0,1,1,1,0,0,0,0,0,0,Senior (4+),25-35k
+BDJ-1139,MIS Executive,Chaldal,Chittagong,,,Negotiable,5,"Excel, SQL, Dashboard, ETL",MSc,2026-09-08,linkedin,,1,0,1,0,0,0,1,1,0,Senior (4+),Negotiable
+BDJ-1140,Data Analyst,Banglalink,Dhaka,50000.0,70000.0,Tk. 50000-70000,1,"SQL, Excel, Power BI, Looker",MSc,2026-08-22,linkedin,60000.0,1,1,1,0,0,0,0,0,0,Fresher (0-1),50-70k
+BDJ-1141,Junior Data Analyst,bKash,Remote,20000.0,35000.0,Tk. 20000-35000,3,"SQL, Excel, Power BI, Looker",MSc,2026-08-21,bdjobs,27500.0,1,1,1,0,0,0,0,0,0,Mid (2-3),25-35k
+BDJ-1142,Growth Data Analyst,Rokomari,Dhaka,18000.0,38000.0,Tk. 18000-38000,3,"SQL, Python, Tableau, Excel",MSc,2026-08-27,careerjet,28000.0,1,0,1,1,1,0,0,0,0,Mid (2-3),25-35k
+BDJ-1143,Junior Data Analyst,Rokomari,Dhaka,18000.0,28000.0,Tk. 18000-28000,0,"Python, SQL, Statistics, Power BI",BBA/MBA,2026-08-11,linkedin,23000.0,1,1,0,1,0,0,0,0,1,Fresher (0-1),15-25k
+BDJ-1144,MIS Executive,Daraz,Dhaka,20000.0,30000.0,Tk. 20000-30000,2,"Power BI, Microsoft Fabric, SQL, Dashboard",BSc in CSE/Stats,2026-09-03,careerjet,25000.0,1,1,0,0,0,1,0,1,0,Mid (2-3),25-35k
+BDJ-1145,Growth Data Analyst,BRAC Bank,Dhaka,18000.0,33000.0,Tk. 18000-33000,4,"SQL, Python, Tableau, Excel",BSc in CSE/Stats,2026-09-06,careerjet,25500.0,1,0,1,1,1,0,0,0,0,Senior (4+),25-35k
+BDJ-1146,BI Analyst,Banglalink,Dhaka,,,Negotiable,0,"Python, SQL, Statistics, Power BI",BSc in CSE/Stats,2026-08-16,bdjobs,,1,1,0,1,0,0,0,0,1,Fresher (0-1),Negotiable
+BDJ-1147,Business Intelligence Analyst,Grameenphone,Chittagong,20000.0,35000.0,Tk. 20000-35000,0,"Power BI, Microsoft Fabric, SQL, Dashboard",MSc,2026-08-24,bdjobs,27500.0,1,1,0,0,0,1,0,1,0,Fresher (0-1),25-35k
+BDJ-1148,MIS Executive,Rokomari,Dhaka,18000.0,38000.0,Tk. 18000-38000,2,"Python, SQL, Statistics, Power BI",MSc,2026-08-25,linkedin,28000.0,1,1,0,1,0,0,0,0,1,Mid (2-3),25-35k
+BDJ-1149,MIS Executive,Chaldal,Dhaka,18000.0,33000.0,Tk. 18000-33000,3,"Power BI, Microsoft Fabric, SQL, Dashboard",MSc,2026-09-13,careerjet,25500.0,1,1,0,0,0,1,0,1,0,Mid (2-3),25-35k
+BDJ-1150,MIS Executive,Banglalink,Chittagong,20000.0,40000.0,Tk. 20000-40000,3,"SQL, Python, Tableau, Excel",MSc,2026-08-25,linkedin,30000.0,1,0,1,1,1,0,0,0,0,Mid (2-3),25-35k
+BDJ-1151,Sales Data Analyst,Grameenphone,Dhaka,18000.0,38000.0,Tk. 18000-38000,2,"SQL, Power BI, Excel",MSc,2026-09-15,linkedin,28000.0,1,1,1,0,0,0,0,0,0,Mid (2-3),25-35k
+BDJ-1152,Data Analyst,Well Group,Dhaka,35000.0,50000.0,Tk. 35000-50000,4,"SQL, Power BI, Excel",BBA/MBA,2026-09-03,linkedin,42500.0,1,1,1,0,0,0,0,0,0,Senior (4+),35-50k
+BDJ-1153,Sales Data Analyst,Well Group,Dhaka,50000.0,70000.0,Tk. 50000-70000,4,"SQL, Excel, Power BI, Looker",MSc,2026-08-17,careerjet,60000.0,1,1,1,0,0,0,0,0,0,Senior (4+),50-70k
+BDJ-1154,MIS Executive,Pathao,Dhaka,18000.0,33000.0,Tk. 18000-33000,3,"Power BI, Microsoft Fabric, SQL, Dashboard",BSc in CSE/Stats,2026-08-30,linkedin,25500.0,1,1,0,0,0,1,0,1,0,Mid (2-3),25-35k
+BDJ-1155,Junior Data Analyst,Grameenphone,Dhaka,,,Negotiable,3,"SQL, Excel, Power BI, Looker",BSc in CSE/Stats,2026-09-09,careerjet,,1,1,1,0,0,0,0,0,0,Mid (2-3),Negotiable
+BDJ-1156,MIS Executive,Rokomari,Dhaka,,,Negotiable,4,"SQL, Excel, Power BI, Looker",BBA/MBA,2026-09-12,careerjet,,1,1,1,0,0,0,0,0,0,Senior (4+),Negotiable
+BDJ-1157,Sales Data Analyst,bKash,Dhaka,20000.0,35000.0,Tk. 20000-35000,3,"SQL, Power BI, Excel",BSc in CSE/Stats,2026-08-15,linkedin,27500.0,1,1,1,0,0,0,0,0,0,Mid (2-3),25-35k
+BDJ-1158,Data Analyst - Power BI,ACI,Dhaka,40000.0,60000.0,Tk. 40000-60000,2,"SQL, Excel, Power BI, Looker",BSc in CSE/Stats,2026-08-06,bdjobs,50000.0,1,1,1,0,0,0,0,0,0,Mid (2-3),50-70k
+BDJ-1159,Data Analyst - Power BI,BRAC Bank,Dhaka,40000.0,60000.0,Tk. 40000-60000,2,"Python, SQL, Statistics, Power BI",MSc,2026-08-06,bdjobs,50000.0,1,1,0,1,0,0,0,0,1,Mid (2-3),50-70k
+BDJ-1160,Sales Data Analyst,Rokomari,Dhaka,35000.0,50000.0,Tk. 35000-50000,3,"Power BI, Microsoft Fabric, SQL, Dashboard",BSc in CSE/Stats,2026-08-03,linkedin,42500.0,1,1,0,0,0,1,0,1,0,Mid (2-3),35-50k
+BDJ-1161,Data Analyst,Chaldal,Dhaka,,,Negotiable,0,"SQL, Power BI, Excel",BSc in CSE/Stats,2026-08-07,bdjobs,,1,1,1,0,0,0,0,0,0,Fresher (0-1),Negotiable
+BDJ-1162,MIS Executive,Banglalink,Dhaka,18000.0,28000.0,Tk. 18000-28000,2,"Power BI, Microsoft Fabric, SQL, Dashboard",BSc in CSE/Stats,2026-08-07,careerjet,23000.0,1,1,0,0,0,1,0,1,0,Mid (2-3),15-25k
+BDJ-1163,BI Analyst,Banglalink,Dhaka,25000.0,45000.0,Tk. 25000-45000,1,"SQL, Python, Tableau, Excel",BSc in CSE/Stats,2026-08-19,careerjet,35000.0,1,0,1,1,1,0,0,0,0,Fresher (0-1),35-50k
+BDJ-1164,Business Intelligence Analyst,Daraz,Chittagong,35000.0,45000.0,Tk. 35000-45000,5,"Python, SQL, Statistics, Power BI",BBA/MBA,2026-08-05,bdjobs,40000.0,1,1,0,1,0,0,0,0,1,Senior (4+),35-50k
+BDJ-1165,BI Analyst,Foodpanda,Dhaka,,,Negotiable,3,"Power BI, Microsoft Fabric, SQL, Dashboard",BBA/MBA,2026-08-17,bdjobs,,1,1,0,0,0,1,0,1,0,Mid (2-3),Negotiable
+BDJ-1166,Junior Data Analyst,BRAC Bank,Dhaka,,,Negotiable,2,"SQL, Python, Tableau, Excel",BBA/MBA,2026-08-21,careerjet,,1,0,1,1,1,0,0,0,0,Mid (2-3),Negotiable
+BDJ-1167,Business Intelligence Analyst,Daraz,Dhaka,,,Negotiable,1,"SQL, Power BI, Excel",MSc,2026-08-04,linkedin,,1,1,1,0,0,0,0,0,0,Fresher (0-1),Negotiable
+BDJ-1168,MIS Executive,PalmPay,Sylhet,50000.0,60000.0,Tk. 50000-60000,5,"Excel, SQL, Dashboard, ETL",BBA/MBA,2026-09-09,linkedin,55000.0,1,0,1,0,0,0,1,1,0,Senior (4+),50-70k
+BDJ-1169,Junior Data Analyst,Well Group,Dhaka,,,Negotiable,4,"SQL, Python, Tableau, Excel",BBA/MBA,2026-08-30,bdjobs,,1,0,1,1,1,0,0,0,0,Senior (4+),Negotiable
+BDJ-1170,BI Analyst,Grameenphone,Dhaka,20000.0,30000.0,Tk. 20000-30000,5,"SQL, Python, Tableau, Excel",MSc,2026-08-11,careerjet,25000.0,1,0,1,1,1,0,0,0,0,Senior (4+),25-35k
+BDJ-1171,Junior Data Analyst,BRAC Bank,Dhaka,40000.0,60000.0,Tk. 40000-60000,3,"Python, SQL, Statistics, Power BI",BBA/MBA,2026-08-08,bdjobs,50000.0,1,1,0,1,0,0,0,0,1,Mid (2-3),50-70k
+BDJ-1172,BI Analyst,Well Group,Dhaka,,,Negotiable,2,"Python, SQL, Statistics, Power BI",MSc,2026-09-15,bdjobs,,1,1,0,1,0,0,0,0,1,Mid (2-3),Negotiable
+BDJ-1173,Junior Data Analyst,Pathao,Dhaka,,,Negotiable,5,"SQL, Python, Tableau, Excel",BSc in CSE/Stats,2026-09-15,bdjobs,,1,0,1,1,1,0,0,0,0,Senior (4+),Negotiable
+BDJ-1174,Data Analyst,PalmPay,Dhaka,25000.0,40000.0,Tk. 25000-40000,3,"SQL, Excel, Power BI, Looker",BBA/MBA,2026-08-04,bdjobs,32500.0,1,1,1,0,0,0,0,0,0,Mid (2-3),25-35k
+BDJ-1175,Junior Data Analyst,Foodpanda,Chittagong,18000.0,38000.0,Tk. 18000-38000,3,"Excel, SQL, Dashboard, ETL",MSc,2026-08-15,linkedin,28000.0,1,0,1,0,0,0,1,1,0,Mid (2-3),25-35k
+BDJ-1176,Growth Data Analyst,Daraz,Dhaka,20000.0,35000.0,Tk. 20000-35000,4,"SQL, Power BI, Excel",BSc in CSE/Stats,2026-08-26,linkedin,27500.0,1,1,1,0,0,0,0,0,0,Senior (4+),25-35k
+BDJ-1177,Data Analyst - Power BI,BRAC Bank,Dhaka,18000.0,33000.0,Tk. 18000-33000,2,"Power BI, Microsoft Fabric, SQL, Dashboard",BSc in CSE/Stats,2026-08-16,linkedin,25500.0,1,1,0,0,0,1,0,1,0,Mid (2-3),25-35k
+BDJ-1178,Data Analyst,Chaldal,Dhaka,40000.0,55000.0,Tk. 40000-55000,2,"SQL, Excel, Power BI, Looker",BSc in CSE/Stats,2026-08-27,linkedin,47500.0,1,1,1,0,0,0,0,0,0,Mid (2-3),35-50k
+BDJ-1179,Business Intelligence Analyst,Grameenphone,Dhaka,35000.0,45000.0,Tk. 35000-45000,3,"Python, SQL, Statistics, Power BI",BSc in CSE/Stats,2026-08-30,careerjet,40000.0,1,1,0,1,0,0,0,0,1,Mid (2-3),35-50k
+BDJ-1180,Business Intelligence Analyst,Foodpanda,Remote,,,Negotiable,4,"SQL, Excel, Power BI, Looker",MSc,2026-08-26,careerjet,,1,1,1,0,0,0,0,0,0,Senior (4+),Negotiable
+BDJ-1181,Sales Data Analyst,ACI,Remote,,,Negotiable,2,"Power BI, Microsoft Fabric, SQL, Dashboard",MSc,2026-08-06,careerjet,,1,1,0,0,0,1,0,1,0,Mid (2-3),Negotiable
+BDJ-1182,MIS Executive,bKash,Dhaka,18000.0,33000.0,Tk. 18000-33000,1,"SQL, Excel, Power BI, Looker",BBA/MBA,2026-08-12,bdjobs,25500.0,1,1,1,0,0,0,0,0,0,Fresher (0-1),25-35k
+BDJ-1183,Sales Data Analyst,Well Group,Dhaka,20000.0,35000.0,Tk. 20000-35000,0,"SQL, Power BI, Excel",MSc,2026-08-04,careerjet,27500.0,1,1,1,0,0,0,0,0,0,Fresher (0-1),25-35k
+BDJ-1184,MIS Executive,Banglalink,Dhaka,25000.0,40000.0,Tk. 25000-40000,2,"Excel, SQL, Dashboard, ETL",BSc in CSE/Stats,2026-08-30,bdjobs,32500.0,1,0,1,0,0,0,1,1,0,Mid (2-3),25-35k
+BDJ-1185,BI Analyst,ACI,Chittagong,,,Negotiable,0,"Excel, SQL, Dashboard, ETL",MSc,2026-08-27,linkedin,,1,0,1,0,0,0,1,1,0,Fresher (0-1),Negotiable
+BDJ-1186,Growth Data Analyst,Daraz,Dhaka,18000.0,38000.0,Tk. 18000-38000,2,"SQL, Power BI, Excel",BBA/MBA,2026-08-03,careerjet,28000.0,1,1,1,0,0,0,0,0,0,Mid (2-3),25-35k
+BDJ-1187,BI Analyst,bKash,Dhaka,,,Negotiable,3,"Python, SQL, Statistics, Power BI",BSc in CSE/Stats,2026-08-07,careerjet,,1,1,0,1,0,0,0,0,1,Mid (2-3),Negotiable
+BDJ-1188,Data Analyst - Power BI,ACI,Dhaka,,,Negotiable,2,"Python, SQL, Statistics, Power BI",BBA/MBA,2026-08-26,careerjet,,1,1,0,1,0,0,0,0,1,Mid (2-3),Negotiable
+BDJ-1189,Business Intelligence Analyst,Well Group,Dhaka,50000.0,60000.0,Tk. 50000-60000,4,"SQL, Excel, Power BI, Looker",MSc,2026-09-12,linkedin,55000.0,1,1,1,0,0,0,0,0,0,Senior (4+),50-70k
+BDJ-1190,MIS Executive,Grameenphone,Dhaka,35000.0,45000.0,Tk. 35000-45000,5,"Excel, SQL, Dashboard, ETL",BSc in CSE/Stats,2026-08-05,bdjobs,40000.0,1,0,1,0,0,0,1,1,0,Senior (4+),35-50k
+BDJ-1191,Sales Data Analyst,ACI,Remote,50000.0,65000.0,Tk. 50000-65000,5,"Excel, SQL, Dashboard, ETL",BSc in CSE/Stats,2026-08-31,bdjobs,57500.0,1,0,1,0,0,0,1,1,0,Senior (4+),50-70k
+BDJ-1192,MIS Executive,Chaldal,Dhaka,25000.0,35000.0,Tk. 25000-35000,3,"SQL, Excel, Power BI, Looker",BBA/MBA,2026-08-24,bdjobs,30000.0,1,1,1,0,0,0,0,0,0,Mid (2-3),25-35k
+BDJ-1193,Sales Data Analyst,Grameenphone,Dhaka,,,Negotiable,4,"Power BI, Microsoft Fabric, SQL, Dashboard",BBA/MBA,2026-09-13,bdjobs,,1,1,0,0,0,1,0,1,0,Senior (4+),Negotiable
+BDJ-1194,Data Analyst - Power BI,Chaldal,Dhaka,50000.0,65000.0,Tk. 50000-65000,0,"Excel, SQL, Dashboard, ETL",MSc,2026-08-26,bdjobs,57500.0,1,0,1,0,0,0,1,1,0,Fresher (0-1),50-70k
+BDJ-1195,Sales Data Analyst,ACI,Dhaka,35000.0,45000.0,Tk. 35000-45000,3,"SQL, Power BI, Excel",BSc in CSE/Stats,2026-09-15,bdjobs,40000.0,1,1,1,0,0,0,0,0,0,Mid (2-3),35-50k
+BDJ-1196,Data Analyst,ACI,Dhaka,35000.0,50000.0,Tk. 35000-50000,2,"Excel, SQL, Dashboard, ETL",BSc in CSE/Stats,2026-08-13,linkedin,42500.0,1,0,1,0,0,0,1,1,0,Mid (2-3),35-50k
+BDJ-1197,Data Analyst,BRAC Bank,Dhaka,40000.0,60000.0,Tk. 40000-60000,0,"SQL, Excel, Power BI, Looker",BBA/MBA,2026-08-16,bdjobs,50000.0,1,1,1,0,0,0,0,0,0,Fresher (0-1),50-70k
+BDJ-1198,MIS Executive,BRAC Bank,Dhaka,,,Negotiable,2,"SQL, Power BI, Excel",MSc,2026-08-28,linkedin,,1,1,1,0,0,0,0,0,0,Mid (2-3),Negotiable
+BDJ-1199,Data Analyst - Power BI,Grameenphone,Remote,25000.0,35000.0,Tk. 25000-35000,1,"SQL, Python, Tableau, Excel",BSc in CSE/Stats,2026-08-27,careerjet,30000.0,1,0,1,1,1,0,0,0,0,Fresher (0-1),25-35k
+BDJ-1200,MIS Executive,PalmPay,Dhaka,50000.0,60000.0,Tk. 50000-60000,1,"Excel, SQL, Dashboard, ETL",BSc in CSE/Stats,2026-08-12,bdjobs,55000.0,1,0,1,0,0,0,1,1,0,Fresher (0-1),50-70k
+BDJ-1201,Sales Data Analyst,Foodpanda,Dhaka,,,Negotiable,3,"Excel, SQL, Dashboard, ETL",BBA/MBA,2026-09-15,careerjet,,1,0,1,0,0,0,1,1,0,Mid (2-3),Negotiable
+BDJ-1202,Business Intelligence Analyst,Well Group,Dhaka,,,Negotiable,3,"Python, SQL, Statistics, Power BI",BBA/MBA,2026-09-09,bdjobs,,1,1,0,1,0,0,0,0,1,Mid (2-3),Negotiable
+BDJ-1203,Data Analyst,Foodpanda,Dhaka,20000.0,30000.0,Tk. 20000-30000,2,"Excel, SQL, Dashboard, ETL",BBA/MBA,2026-09-05,linkedin,25000.0,1,0,1,0,0,0,1,1,0,Mid (2-3),25-35k
+BDJ-1204,Sales Data Analyst,BRAC Bank,Dhaka,25000.0,35000.0,Tk. 25000-35000,3,"Python, SQL, Statistics, Power BI",BBA/MBA,2026-09-09,linkedin,30000.0,1,1,0,1,0,0,0,0,1,Mid (2-3),25-35k
+BDJ-1205,Growth Data Analyst,bKash,Dhaka,,,Negotiable,4,"SQL, Python, Tableau, Excel",BSc in CSE/Stats,2026-08-02,linkedin,,1,0,1,1,1,0,0,0,0,Senior (4+),Negotiable
+BDJ-1206,Growth Data Analyst,bKash,Dhaka,25000.0,40000.0,Tk. 25000-40000,1,"SQL, Excel, Power BI, Looker",BBA/MBA,2026-08-24,linkedin,32500.0,1,1,1,0,0,0,0,0,0,Fresher (0-1),25-35k
+BDJ-1207,Growth Data Analyst,bKash,Dhaka,20000.0,35000.0,Tk. 20000-35000,1,"SQL, Excel, Power BI, Looker",MSc,2026-08-17,bdjobs,27500.0,1,1,1,0,0,0,0,0,0,Fresher (0-1),25-35k
+BDJ-1208,Data Analyst - Power BI,BRAC Bank,Dhaka,50000.0,60000.0,Tk. 50000-60000,4,"SQL, Power BI, Excel",MSc,2026-09-09,careerjet,55000.0,1,1,1,0,0,0,0,0,0,Senior (4+),50-70k
+BDJ-1209,Growth Data Analyst,Well Group,Chittagong,35000.0,45000.0,Tk. 35000-45000,1,"Excel, SQL, Dashboard, ETL",BBA/MBA,2026-08-31,careerjet,40000.0,1,0,1,0,0,0,1,1,0,Fresher (0-1),35-50k
+BDJ-1210,Business Intelligence Analyst,BRAC Bank,Sylhet,25000.0,45000.0,Tk. 25000-45000,0,"Python, SQL, Statistics, Power BI",MSc,2026-08-09,linkedin,35000.0,1,1,0,1,0,0,0,0,1,Fresher (0-1),35-50k
+BDJ-1211,Sales Data Analyst,Chaldal,Dhaka,,,Negotiable,2,"SQL, Python, Tableau, Excel",BSc in CSE/Stats,2026-08-05,linkedin,,1,0,1,1,1,0,0,0,0,Mid (2-3),Negotiable
+BDJ-1212,Growth Data Analyst,BRAC Bank,Dhaka,35000.0,45000.0,Tk. 35000-45000,1,"Python, SQL, Statistics, Power BI",MSc,2026-08-22,linkedin,40000.0,1,1,0,1,0,0,0,0,1,Fresher (0-1),35-50k
+BDJ-1213,Junior Data Analyst,Banglalink,Dhaka,35000.0,45000.0,Tk. 35000-45000,1,"Python, SQL, Statistics, Power BI",MSc,2026-08-19,bdjobs,40000.0,1,1,0,1,0,0,0,0,1,Fresher (0-1),35-50k
+BDJ-1214,Data Analyst - Power BI,Rokomari,Dhaka,,,Negotiable,5,"SQL, Python, Tableau, Excel",BBA/MBA,2026-09-12,linkedin,,1,0,1,1,1,0,0,0,0,Senior (4+),Negotiable
+BDJ-1215,Business Intelligence Analyst,Well Group,Dhaka,,,Negotiable,1,"SQL, Power BI, Excel",BSc in CSE/Stats,2026-08-11,careerjet,,1,1,1,0,0,0,0,0,0,Fresher (0-1),Negotiable
+BDJ-1216,MIS Executive,Chaldal,Dhaka,40000.0,60000.0,Tk. 40000-60000,2,"Excel, SQL, Dashboard, ETL",BSc in CSE/Stats,2026-08-08,careerjet,50000.0,1,0,1,0,0,0,1,1,0,Mid (2-3),50-70k
+BDJ-1217,BI Analyst,Daraz,Dhaka,18000.0,38000.0,Tk. 18000-38000,0,"Python, SQL, Statistics, Power BI",MSc,2026-09-01,linkedin,28000.0,1,1,0,1,0,0,0,0,1,Fresher (0-1),25-35k
+BDJ-1218,Junior Data Analyst,BRAC Bank,Dhaka,,,Negotiable,5,"Excel, SQL, Dashboard, ETL",BSc in CSE/Stats,2026-08-21,careerjet,,1,0,1,0,0,0,1,1,0,Senior (4+),Negotiable
+BDJ-1219,MIS Executive,Daraz,Dhaka,40000.0,55000.0,Tk. 40000-55000,2,"Excel, SQL, Dashboard, ETL",MSc,2026-08-26,linkedin,47500.0,1,0,1,0,0,0,1,1,0,Mid (2-3),35-50k
+BDJ-1220,Growth Data Analyst,bKash,Dhaka,40000.0,50000.0,Tk. 40000-50000,2,"SQL, Python, Tableau, Excel",MSc,2026-08-27,linkedin,45000.0,1,0,1,1,1,0,0,0,0,Mid (2-3),35-50k
+BDJ-1221,BI Analyst,Chaldal,Dhaka,,,Negotiable,3,"Power BI, Microsoft Fabric, SQL, Dashboard",MSc,2026-08-11,linkedin,,1,1,0,0,0,1,0,1,0,Mid (2-3),Negotiable
+BDJ-1222,BI Analyst,Chaldal,Dhaka,40000.0,55000.0,Tk. 40000-55000,2,"Python, SQL, Statistics, Power BI",MSc,2026-08-03,linkedin,47500.0,1,1,0,1,0,0,0,0,1,Mid (2-3),35-50k
+BDJ-1223,Data Analyst - Power BI,Pathao,Dhaka,,,Negotiable,2,"SQL, Power BI, Excel",BSc in CSE/Stats,2026-08-27,linkedin,,1,1,1,0,0,0,0,0,0,Mid (2-3),Negotiable
+BDJ-1224,Sales Data Analyst,BRAC Bank,Chittagong,35000.0,50000.0,Tk. 35000-50000,2,"Python, SQL, Statistics, Power BI",MSc,2026-08-28,bdjobs,42500.0,1,1,0,1,0,0,0,0,1,Mid (2-3),35-50k
+BDJ-1225,Data Analyst,BRAC Bank,Dhaka,,,Negotiable,0,"SQL, Python, Tableau, Excel",MSc,2026-08-10,linkedin,,1,0,1,1,1,0,0,0,0,Fresher (0-1),Negotiable
+BDJ-1226,Data Analyst - Power BI,Rokomari,Dhaka,20000.0,35000.0,Tk. 20000-35000,3,"Power BI, Microsoft Fabric, SQL, Dashboard",MSc,2026-09-14,bdjobs,27500.0,1,1,0,0,0,1,0,1,0,Mid (2-3),25-35k
+BDJ-1227,Data Analyst,Well Group,Dhaka,40000.0,55000.0,Tk. 40000-55000,2,"SQL, Excel, Power BI, Looker",BBA/MBA,2026-08-20,linkedin,47500.0,1,1,1,0,0,0,0,0,0,Mid (2-3),35-50k
+BDJ-1228,BI Analyst,ACI,Sylhet,,,Negotiable,3,"SQL, Power BI, Excel",BSc in CSE/Stats,2026-08-31,bdjobs,,1,1,1,0,0,0,0,0,0,Mid (2-3),Negotiable
+BDJ-1229,Data Analyst,Grameenphone,Dhaka,,,Negotiable,2,"SQL, Python, Tableau, Excel",MSc,2026-09-05,linkedin,,1,0,1,1,1,0,0,0,0,Mid (2-3),Negotiable
+BDJ-1230,Sales Data Analyst,ACI,Dhaka,40000.0,50000.0,Tk. 40000-50000,4,"SQL, Python, Tableau, Excel",BSc in CSE/Stats,2026-09-14,linkedin,45000.0,1,0,1,1,1,0,0,0,0,Senior (4+),35-50k
+BDJ-1231,MIS Executive,BRAC Bank,Chittagong,,,Negotiable,3,"Power BI, Microsoft Fabric, SQL, Dashboard",MSc,2026-08-29,careerjet,,1,1,0,0,0,1,0,1,0,Mid (2-3),Negotiable
+BDJ-1232,BI Analyst,Daraz,Chittagong,50000.0,60000.0,Tk. 50000-60000,1,"SQL, Excel, Power BI, Looker",MSc,2026-08-23,bdjobs,55000.0,1,1,1,0,0,0,0,0,0,Fresher (0-1),50-70k
+BDJ-1233,Growth Data Analyst,PalmPay,Dhaka,40000.0,50000.0,Tk. 40000-50000,5,"SQL, Python, Tableau, Excel",BBA/MBA,2026-09-05,bdjobs,45000.0,1,0,1,1,1,0,0,0,0,Senior (4+),35-50k
+BDJ-1234,Sales Data Analyst,Foodpanda,Chittagong,25000.0,40000.0,Tk. 25000-40000,1,"Excel, SQL, Dashboard, ETL",MSc,2026-08-21,careerjet,32500.0,1,0,1,0,0,0,1,1,0,Fresher (0-1),25-35k
+BDJ-1235,MIS Executive,Well Group,Sylhet,50000.0,60000.0,Tk. 50000-60000,4,"Python, SQL, Statistics, Power BI",MSc,2026-09-10,bdjobs,55000.0,1,1,0,1,0,0,0,0,1,Senior (4+),50-70k
+BDJ-1236,Junior Data Analyst,bKash,Dhaka,25000.0,45000.0,Tk. 25000-45000,3,"Excel, SQL, Dashboard, ETL",BSc in CSE/Stats,2026-09-15,linkedin,35000.0,1,0,1,0,0,0,1,1,0,Mid (2-3),35-50k
+BDJ-1237,Sales Data Analyst,BRAC Bank,Dhaka,50000.0,65000.0,Tk. 50000-65000,5,"Excel, SQL, Dashboard, ETL",BSc in CSE/Stats,2026-09-04,bdjobs,57500.0,1,0,1,0,0,0,1,1,0,Senior (4+),50-70k
+BDJ-1238,BI Analyst,PalmPay,Dhaka,25000.0,40000.0,Tk. 25000-40000,5,"Power BI, Microsoft Fabric, SQL, Dashboard",MSc,2026-08-12,bdjobs,32500.0,1,1,0,0,0,1,0,1,0,Senior (4+),25-35k
+BDJ-1239,Sales Data Analyst,Banglalink,Remote,35000.0,45000.0,Tk. 35000-45000,3,"SQL, Excel, Power BI, Looker",MSc,2026-08-05,linkedin,40000.0,1,1,1,0,0,0,0,0,0,Mid (2-3),35-50k
+BDJ-1240,Data Analyst - Power BI,Grameenphone,Dhaka,,,Negotiable,2,"SQL, Python, Tableau, Excel",BSc in CSE/Stats,2026-08-31,bdjobs,,1,0,1,1,1,0,0,0,0,Mid (2-3),Negotiable
+BDJ-1241,MIS Executive,Pathao,Chittagong,35000.0,50000.0,Tk. 35000-50000,2,"Power BI, Microsoft Fabric, SQL, Dashboard",BSc in CSE/Stats,2026-08-15,careerjet,42500.0,1,1,0,0,0,1,0,1,0,Mid (2-3),35-50k
+BDJ-1242,Business Intelligence Analyst,PalmPay,Dhaka,18000.0,28000.0,Tk. 18000-28000,4,"Excel, SQL, Dashboard, ETL",BBA/MBA,2026-08-03,linkedin,23000.0,1,0,1,0,0,0,1,1,0,Senior (4+),15-25k
+BDJ-1243,Data Analyst,BRAC Bank,Dhaka,,,Negotiable,3,"SQL, Power BI, Excel",BSc in CSE/Stats,2026-09-09,linkedin,,1,1,1,0,0,0,0,0,0,Mid (2-3),Negotiable
+BDJ-1244,MIS Executive,Rokomari,Dhaka,,,Negotiable,2,"Excel, SQL, Dashboard, ETL",MSc,2026-08-26,bdjobs,,1,0,1,0,0,0,1,1,0,Mid (2-3),Negotiable
+BDJ-1245,MIS Executive,Daraz,Dhaka,25000.0,40000.0,Tk. 25000-40000,4,"SQL, Excel, Power BI, Looker",BSc in CSE/Stats,2026-08-07,bdjobs,32500.0,1,1,1,0,0,0,0,0,0,Senior (4+),25-35k
+BDJ-1246,BI Analyst,Chaldal,Dhaka,20000.0,30000.0,Tk. 20000-30000,2,"Python, SQL, Statistics, Power BI",MSc,2026-08-29,careerjet,25000.0,1,1,0,1,0,0,0,0,1,Mid (2-3),25-35k
+BDJ-1247,Data Analyst,ACI,Dhaka,40000.0,60000.0,Tk. 40000-60000,2,"SQL, Python, Tableau, Excel",MSc,2026-08-31,bdjobs,50000.0,1,0,1,1,1,0,0,0,0,Mid (2-3),50-70k
+BDJ-1248,Junior Data Analyst,Foodpanda,Chittagong,20000.0,35000.0,Tk. 20000-35000,5,"SQL, Python, Tableau, Excel",MSc,2026-09-02,careerjet,27500.0,1,0,1,1,1,0,0,0,0,Senior (4+),25-35k
+BDJ-1249,Data Analyst - Power BI,ACI,Dhaka,18000.0,38000.0,Tk. 18000-38000,1,"SQL, Excel, Power BI, Looker",BSc in CSE/Stats,2026-09-09,careerjet,28000.0,1,1,1,0,0,0,0,0,0,Fresher (0-1),25-35k
+BDJ-1250,Junior Data Analyst,Foodpanda,Chittagong,20000.0,40000.0,Tk. 20000-40000,5,"Excel, SQL, Dashboard, ETL",BSc in CSE/Stats,2026-08-05,bdjobs,30000.0,1,0,1,0,0,0,1,1,0,Senior (4+),25-35k
+BDJ-1251,Growth Data Analyst,Well Group,Dhaka,35000.0,55000.0,Tk. 35000-55000,1,"Python, SQL, Statistics, Power BI",BBA/MBA,2026-08-13,bdjobs,45000.0,1,1,0,1,0,0,0,0,1,Fresher (0-1),35-50k
+BDJ-1252,Growth Data Analyst,Pathao,Dhaka,,,Negotiable,5,"SQL, Python, Tableau, Excel",BBA/MBA,2026-08-15,bdjobs,,1,0,1,1,1,0,0,0,0,Senior (4+),Negotiable
+BDJ-1253,MIS Executive,Banglalink,Chittagong,40000.0,50000.0,Tk. 40000-50000,3,"SQL, Power BI, Excel",BSc in CSE/Stats,2026-08-30,bdjobs,45000.0,1,1,1,0,0,0,0,0,0,Mid (2-3),35-50k
+BDJ-1254,Business Intelligence Analyst,Daraz,Dhaka,18000.0,33000.0,Tk. 18000-33000,2,"Excel, SQL, Dashboard, ETL",BSc in CSE/Stats,2026-09-03,bdjobs,25500.0,1,0,1,0,0,0,1,1,0,Mid (2-3),25-35k
+BDJ-1255,Data Analyst,Foodpanda,Dhaka,,,Negotiable,1,"SQL, Excel, Power BI, Looker",BSc in CSE/Stats,2026-09-09,linkedin,,1,1,1,0,0,0,0,0,0,Fresher (0-1),Negotiable
+BDJ-1256,Data Analyst,bKash,Dhaka,20000.0,35000.0,Tk. 20000-35000,1,"SQL, Power BI, Excel",BSc in CSE/Stats,2026-08-20,bdjobs,27500.0,1,1,1,0,0,0,0,0,0,Fresher (0-1),25-35k
+BDJ-1257,MIS Executive,BRAC Bank,Dhaka,,,Negotiable,2,"SQL, Power BI, Excel",MSc,2026-09-03,bdjobs,,1,1,1,0,0,0,0,0,0,Mid (2-3),Negotiable
+BDJ-1258,Sales Data Analyst,Banglalink,Dhaka,50000.0,60000.0,Tk. 50000-60000,2,"SQL, Power BI, Excel",BSc in CSE/Stats,2026-08-26,careerjet,55000.0,1,1,1,0,0,0,0,0,0,Mid (2-3),50-70k
+BDJ-1259,Junior Data Analyst,ACI,Dhaka,,,Negotiable,1,"Power BI, Microsoft Fabric, SQL, Dashboard",BBA/MBA,2026-08-13,bdjobs,,1,1,0,0,0,1,0,1,0,Fresher (0-1),Negotiable
+BDJ-1260,Data Analyst,Rokomari,Dhaka,,,Negotiable,2,"SQL, Power BI, Excel",MSc,2026-09-04,bdjobs,,1,1,1,0,0,0,0,0,0,Mid (2-3),Negotiable
+BDJ-1261,Data Analyst,BRAC Bank,Dhaka,40000.0,60000.0,Tk. 40000-60000,2,"SQL, Python, Tableau, Excel",MSc,2026-08-23,linkedin,50000.0,1,0,1,1,1,0,0,0,0,Mid (2-3),50-70k
+BDJ-1262,MIS Executive,Pathao,Chittagong,25000.0,35000.0,Tk. 25000-35000,3,"Excel, SQL, Dashboard, ETL",BSc in CSE/Stats,2026-08-15,careerjet,30000.0,1,0,1,0,0,0,1,1,0,Mid (2-3),25-35k
+BDJ-1263,MIS Executive,ACI,Dhaka,20000.0,30000.0,Tk. 20000-30000,1,"SQL, Python, Tableau, Excel",BBA/MBA,2026-08-27,bdjobs,25000.0,1,0,1,1,1,0,0,0,0,Fresher (0-1),25-35k
+BDJ-1264,Junior Data Analyst,Banglalink,Dhaka,25000.0,40000.0,Tk. 25000-40000,3,"SQL, Excel, Power BI, Looker",BBA/MBA,2026-08-26,bdjobs,32500.0,1,1,1,0,0,0,0,0,0,Mid (2-3),25-35k
+BDJ-1265,MIS Executive,Grameenphone,Dhaka,35000.0,45000.0,Tk. 35000-45000,0,"SQL, Power BI, Excel",BBA/MBA,2026-08-17,careerjet,40000.0,1,1,1,0,0,0,0,0,0,Fresher (0-1),35-50k
+BDJ-1266,Junior Data Analyst,Daraz,Remote,25000.0,45000.0,Tk. 25000-45000,1,"SQL, Excel, Power BI, Looker",MSc,2026-09-02,linkedin,35000.0,1,1,1,0,0,0,0,0,0,Fresher (0-1),35-50k
+BDJ-1267,Data Analyst - Power BI,BRAC Bank,Dhaka,18000.0,28000.0,Tk. 18000-28000,0,"Python, SQL, Statistics, Power BI",MSc,2026-08-05,careerjet,23000.0,1,1,0,1,0,0,0,0,1,Fresher (0-1),15-25k
+BDJ-1268,Data Analyst,Foodpanda,Dhaka,25000.0,45000.0,Tk. 25000-45000,3,"Power BI, Microsoft Fabric, SQL, Dashboard",MSc,2026-08-17,linkedin,35000.0,1,1,0,0,0,1,0,1,0,Mid (2-3),35-50k
+BDJ-1269,Sales Data Analyst,ACI,Dhaka,35000.0,45000.0,Tk. 35000-45000,5,"Python, SQL, Statistics, Power BI",MSc,2026-08-15,careerjet,40000.0,1,1,0,1,0,0,0,0,1,Senior (4+),35-50k
+BDJ-1270,Business Intelligence Analyst,Chaldal,Dhaka,40000.0,55000.0,Tk. 40000-55000,4,"SQL, Power BI, Excel",BSc in CSE/Stats,2026-09-06,careerjet,47500.0,1,1,1,0,0,0,0,0,0,Senior (4+),35-50k
+BDJ-1271,MIS Executive,Pathao,Dhaka,18000.0,38000.0,Tk. 18000-38000,0,"Power BI, Microsoft Fabric, SQL, Dashboard",MSc,2026-08-31,linkedin,28000.0,1,1,0,0,0,1,0,1,0,Fresher (0-1),25-35k
+BDJ-1272,BI Analyst,bKash,Dhaka,25000.0,40000.0,Tk. 25000-40000,2,"SQL, Power BI, Excel",BSc in CSE/Stats,2026-08-18,linkedin,32500.0,1,1,1,0,0,0,0,0,0,Mid (2-3),25-35k
+BDJ-1273,Business Intelligence Analyst,Banglalink,Dhaka,,,Negotiable,2,"SQL, Power BI, Excel",BBA/MBA,2026-08-31,careerjet,,1,1,1,0,0,0,0,0,0,Mid (2-3),Negotiable
+BDJ-1274,BI Analyst,Banglalink,Dhaka,,,Negotiable,1,"SQL, Excel, Power BI, Looker",BBA/MBA,2026-09-11,careerjet,,1,1,1,0,0,0,0,0,0,Fresher (0-1),Negotiable
+BDJ-1275,Data Analyst,Chaldal,Chittagong,20000.0,30000.0,Tk. 20000-30000,5,"SQL, Python, Tableau, Excel",MSc,2026-08-18,bdjobs,25000.0,1,0,1,1,1,0,0,0,0,Senior (4+),25-35k
+BDJ-1276,BI Analyst,bKash,Dhaka,25000.0,40000.0,Tk. 25000-40000,2,"Power BI, Microsoft Fabric, SQL, Dashboard",MSc,2026-09-15,linkedin,32500.0,1,1,0,0,0,1,0,1,0,Mid (2-3),25-35k
+BDJ-1277,Junior Data Analyst,Pathao,Dhaka,50000.0,70000.0,Tk. 50000-70000,3,"Excel, SQL, Dashboard, ETL",BBA/MBA,2026-08-18,careerjet,60000.0,1,0,1,0,0,0,1,1,0,Mid (2-3),50-70k
+BDJ-1278,Data Analyst - Power BI,BRAC Bank,Dhaka,50000.0,65000.0,Tk. 50000-65000,4,"SQL, Power BI, Excel",MSc,2026-08-07,linkedin,57500.0,1,1,1,0,0,0,0,0,0,Senior (4+),50-70k
+BDJ-1279,Growth Data Analyst,BRAC Bank,Dhaka,40000.0,55000.0,Tk. 40000-55000,0,"SQL, Excel, Power BI, Looker",MSc,2026-08-31,careerjet,47500.0,1,1,1,0,0,0,0,0,0,Fresher (0-1),35-50k
+BDJ-1280,BI Analyst,Well Group,Dhaka,18000.0,38000.0,Tk. 18000-38000,2,"SQL, Python, Tableau, Excel",BSc in CSE/Stats,2026-08-07,careerjet,28000.0,1,0,1,1,1,0,0,0,0,Mid (2-3),25-35k
+BDJ-1281,Data Analyst - Power BI,Pathao,Dhaka,35000.0,50000.0,Tk. 35000-50000,5,"Excel, SQL, Dashboard, ETL",MSc,2026-08-13,bdjobs,42500.0,1,0,1,0,0,0,1,1,0,Senior (4+),35-50k
+BDJ-1282,BI Analyst,Banglalink,Dhaka,25000.0,35000.0,Tk. 25000-35000,2,"SQL, Excel, Power BI, Looker",BBA/MBA,2026-08-19,careerjet,30000.0,1,1,1,0,0,0,0,0,0,Mid (2-3),25-35k
+BDJ-1283,MIS Executive,Foodpanda,Remote,,,Negotiable,2,"Power BI, Microsoft Fabric, SQL, Dashboard",BBA/MBA,2026-09-02,linkedin,,1,1,0,0,0,1,0,1,0,Mid (2-3),Negotiable
+BDJ-1284,BI Analyst,bKash,Dhaka,35000.0,55000.0,Tk. 35000-55000,3,"Power BI, Microsoft Fabric, SQL, Dashboard",MSc,2026-09-15,bdjobs,45000.0,1,1,0,0,0,1,0,1,0,Mid (2-3),35-50k
+BDJ-1285,Junior Data Analyst,bKash,Dhaka,35000.0,45000.0,Tk. 35000-45000,5,"SQL, Excel, Power BI, Looker",BSc in CSE/Stats,2026-08-07,bdjobs,40000.0,1,1,1,0,0,0,0,0,0,Senior (4+),35-50k
+BDJ-1286,MIS Executive,PalmPay,Dhaka,20000.0,40000.0,Tk. 20000-40000,4,"SQL, Python, Tableau, Excel",MSc,2026-08-13,careerjet,30000.0,1,0,1,1,1,0,0,0,0,Senior (4+),25-35k
+BDJ-1287,Growth Data Analyst,Grameenphone,Remote,,,Negotiable,0,"Python, SQL, Statistics, Power BI",BSc in CSE/Stats,2026-09-10,linkedin,,1,1,0,1,0,0,0,0,1,Fresher (0-1),Negotiable
+BDJ-1288,Data Analyst,ACI,Dhaka,,,Negotiable,0,"Power BI, Microsoft Fabric, SQL, Dashboard",BSc in CSE/Stats,2026-08-21,bdjobs,,1,1,0,0,0,1,0,1,0,Fresher (0-1),Negotiable
+BDJ-1289,BI Analyst,Rokomari,Dhaka,50000.0,65000.0,Tk. 50000-65000,4,"SQL, Power BI, Excel",BSc in CSE/Stats,2026-08-15,careerjet,57500.0,1,1,1,0,0,0,0,0,0,Senior (4+),50-70k
+BDJ-1290,Data Analyst - Power BI,Well Group,Dhaka,,,Negotiable,3,"Power BI, Microsoft Fabric, SQL, Dashboard",BSc in CSE/Stats,2026-08-07,bdjobs,,1,1,0,0,0,1,0,1,0,Mid (2-3),Negotiable
+BDJ-1291,MIS Executive,Chaldal,Dhaka,,,Negotiable,1,"SQL, Python, Tableau, Excel",BBA/MBA,2026-08-12,careerjet,,1,0,1,1,1,0,0,0,0,Fresher (0-1),Negotiable
+BDJ-1292,BI Analyst,bKash,Dhaka,25000.0,40000.0,Tk. 25000-40000,0,"SQL, Power BI, Excel",BSc in CSE/Stats,2026-08-09,bdjobs,32500.0,1,1,1,0,0,0,0,0,0,Fresher (0-1),25-35k
+BDJ-1293,Junior Data Analyst,Well Group,Dhaka,,,Negotiable,0,"SQL, Power BI, Excel",BBA/MBA,2026-08-22,linkedin,,1,1,1,0,0,0,0,0,0,Fresher (0-1),Negotiable
+BDJ-1294,BI Analyst,ACI,Dhaka,40000.0,55000.0,Tk. 40000-55000,1,"SQL, Excel, Power BI, Looker",BBA/MBA,2026-09-04,bdjobs,47500.0,1,1,1,0,0,0,0,0,0,Fresher (0-1),35-50k
+BDJ-1295,Sales Data Analyst,bKash,Dhaka,,,Negotiable,4,"Excel, SQL, Dashboard, ETL",BSc in CSE/Stats,2026-09-15,linkedin,,1,0,1,0,0,0,1,1,0,Senior (4+),Negotiable
+BDJ-1296,Junior Data Analyst,Daraz,Dhaka,18000.0,38000.0,Tk. 18000-38000,2,"SQL, Power BI, Excel",BBA/MBA,2026-08-25,linkedin,28000.0,1,1,1,0,0,0,0,0,0,Mid (2-3),25-35k
+BDJ-1297,Data Analyst,Foodpanda,Dhaka,18000.0,28000.0,Tk. 18000-28000,3,"SQL, Python, Tableau, Excel",BBA/MBA,2026-08-08,linkedin,23000.0,1,0,1,1,1,0,0,0,0,Mid (2-3),15-25k
+BDJ-1298,BI Analyst,Banglalink,Dhaka,50000.0,65000.0,Tk. 50000-65000,1,"Excel, SQL, Dashboard, ETL",BBA/MBA,2026-08-31,careerjet,57500.0,1,0,1,0,0,0,1,1,0,Fresher (0-1),50-70k
+BDJ-1299,BI Analyst,Pathao,Dhaka,,,Negotiable,4,"SQL, Python, Tableau, Excel",BBA/MBA,2026-09-06,bdjobs,,1,0,1,1,1,0,0,0,0,Senior (4+),Negotiable
+BDJ-1300,BI Analyst,Well Group,Dhaka,40000.0,60000.0,Tk. 40000-60000,2,"Python, SQL, Statistics, Power BI",BBA/MBA,2026-09-15,linkedin,50000.0,1,1,0,1,0,0,0,0,1,Mid (2-3),50-70k
+BDJ-1301,Data Analyst,bKash,Dhaka,50000.0,65000.0,Tk. 50000-65000,0,"SQL, Excel, Power BI, Looker",BSc in CSE/Stats,2026-08-03,bdjobs,57500.0,1,1,1,0,0,0,0,0,0,Fresher (0-1),50-70k
+BDJ-1302,Business Intelligence Analyst,PalmPay,Dhaka,35000.0,55000.0,Tk. 35000-55000,3,"SQL, Excel, Power BI, Looker",BSc in CSE/Stats,2026-09-15,bdjobs,45000.0,1,1,1,0,0,0,0,0,0,Mid (2-3),35-50k
+BDJ-1303,Data Analyst,Daraz,Remote,,,Negotiable,3,"Python, SQL, Statistics, Power BI",BBA/MBA,2026-08-24,linkedin,,1,1,0,1,0,0,0,0,1,Mid (2-3),Negotiable
+BDJ-1304,Data Analyst - Power BI,Foodpanda,Dhaka,35000.0,45000.0,Tk. 35000-45000,1,"SQL, Python, Tableau, Excel",BBA/MBA,2026-09-10,linkedin,40000.0,1,0,1,1,1,0,0,0,0,Fresher (0-1),35-50k
+BDJ-1305,Junior Data Analyst,Foodpanda,Dhaka,,,Negotiable,3,"Excel, SQL, Dashboard, ETL",MSc,2026-08-04,linkedin,,1,0,1,0,0,0,1,1,0,Mid (2-3),Negotiable
+BDJ-1306,MIS Executive,BRAC Bank,Dhaka,,,Negotiable,4,"SQL, Excel, Power BI, Looker",MSc,2026-09-03,careerjet,,1,1,1,0,0,0,0,0,0,Senior (4+),Negotiable
+BDJ-1307,Sales Data Analyst,Daraz,Dhaka,25000.0,35000.0,Tk. 25000-35000,3,"Python, SQL, Statistics, Power BI",BSc in CSE/Stats,2026-08-04,careerjet,30000.0,1,1,0,1,0,0,0,0,1,Mid (2-3),25-35k
+BDJ-1308,Data Analyst - Power BI,Foodpanda,Dhaka,,,Negotiable,5,"Python, SQL, Statistics, Power BI",MSc,2026-09-12,linkedin,,1,1,0,1,0,0,0,0,1,Senior (4+),Negotiable
+BDJ-1309,Business Intelligence Analyst,Banglalink,Dhaka,,,Negotiable,2,"SQL, Python, Tableau, Excel",BBA/MBA,2026-08-03,bdjobs,,1,0,1,1,1,0,0,0,0,Mid (2-3),Negotiable
+BDJ-1310,Data Analyst,Foodpanda,Dhaka,25000.0,40000.0,Tk. 25000-40000,2,"Excel, SQL, Dashboard, ETL",MSc,2026-08-29,bdjobs,32500.0,1,0,1,0,0,0,1,1,0,Mid (2-3),25-35k
+BDJ-1311,Junior Data Analyst,Well Group,Dhaka,,,Negotiable,2,"SQL, Power BI, Excel",BSc in CSE/Stats,2026-08-17,careerjet,,1,1,1,0,0,0,0,0,0,Mid (2-3),Negotiable
+BDJ-1312,BI Analyst,Foodpanda,Dhaka,25000.0,35000.0,Tk. 25000-35000,3,"SQL, Power BI, Excel",MSc,2026-09-11,bdjobs,30000.0,1,1,1,0,0,0,0,0,0,Mid (2-3),25-35k
+BDJ-1313,Growth Data Analyst,Daraz,Dhaka,18000.0,38000.0,Tk. 18000-38000,1,"SQL, Excel, Power BI, Looker",MSc,2026-09-02,careerjet,28000.0,1,1,1,0,0,0,0,0,0,Fresher (0-1),25-35k
+BDJ-1314,MIS Executive,PalmPay,Dhaka,35000.0,55000.0,Tk. 35000-55000,2,"Power BI, Microsoft Fabric, SQL, Dashboard",BSc in CSE/Stats,2026-09-09,careerjet,45000.0,1,1,0,0,0,1,0,1,0,Mid (2-3),35-50k
+BDJ-1315,Data Analyst - Power BI,Foodpanda,Dhaka,50000.0,65000.0,Tk. 50000-65000,1,"Python, SQL, Statistics, Power BI",BBA/MBA,2026-08-06,careerjet,57500.0,1,1,0,1,0,0,0,0,1,Fresher (0-1),50-70k
+BDJ-1316,MIS Executive,Banglalink,Dhaka,,,Negotiable,3,"Power BI, Microsoft Fabric, SQL, Dashboard",BSc in CSE/Stats,2026-08-17,bdjobs,,1,1,0,0,0,1,0,1,0,Mid (2-3),Negotiable
+BDJ-1317,Sales Data Analyst,Foodpanda,Dhaka,20000.0,30000.0,Tk. 20000-30000,3,"Power BI, Microsoft Fabric, SQL, Dashboard",BSc in CSE/Stats,2026-08-06,linkedin,25000.0,1,1,0,0,0,1,0,1,0,Mid (2-3),25-35k
+BDJ-1318,Junior Data Analyst,Well Group,Dhaka,,,Negotiable,5,"Excel, SQL, Dashboard, ETL",BBA/MBA,2026-08-24,careerjet,,1,0,1,0,0,0,1,1,0,Senior (4+),Negotiable
+BDJ-1319,Business Intelligence Analyst,Foodpanda,Dhaka,20000.0,30000.0,Tk. 20000-30000,5,"SQL, Excel, Power BI, Looker",MSc,2026-08-08,careerjet,25000.0,1,1,1,0,0,0,0,0,0,Senior (4+),25-35k
+BDJ-1320,Junior Data Analyst,ACI,Dhaka,40000.0,55000.0,Tk. 40000-55000,4,"SQL, Python, Tableau, Excel",BBA/MBA,2026-08-30,bdjobs,47500.0,1,0,1,1,1,0,0,0,0,Senior (4+),35-50k
+BDJ-1321,MIS Executive,Well Group,Dhaka,,,Negotiable,0,"Excel, SQL, Dashboard, ETL",BSc in CSE/Stats,2026-09-11,bdjobs,,1,0,1,0,0,0,1,1,0,Fresher (0-1),Negotiable
+BDJ-1322,BI Analyst,bKash,Chittagong,,,Negotiable,1,"SQL, Power BI, Excel",BBA/MBA,2026-08-24,careerjet,,1,1,1,0,0,0,0,0,0,Fresher (0-1),Negotiable
+BDJ-1323,Data Analyst,Well Group,Dhaka,18000.0,33000.0,Tk. 18000-33000,2,"Power BI, Microsoft Fabric, SQL, Dashboard",BSc in CSE/Stats,2026-08-29,careerjet,25500.0,1,1,0,0,0,1,0,1,0,Mid (2-3),25-35k
+BDJ-1324,Business Intelligence Analyst,PalmPay,Chittagong,50000.0,60000.0,Tk. 50000-60000,5,"Excel, SQL, Dashboard, ETL",MSc,2026-08-29,bdjobs,55000.0,1,0,1,0,0,0,1,1,0,Senior (4+),50-70k
+BDJ-1325,Business Intelligence Analyst,Grameenphone,Dhaka,,,Negotiable,1,"Python, SQL, Statistics, Power BI",BSc in CSE/Stats,2026-08-27,careerjet,,1,1,0,1,0,0,0,0,1,Fresher (0-1),Negotiable
+BDJ-1326,Junior Data Analyst,Rokomari,Dhaka,,,Negotiable,4,"SQL, Power BI, Excel",MSc,2026-09-04,bdjobs,,1,1,1,0,0,0,0,0,0,Senior (4+),Negotiable
+BDJ-1327,Data Analyst,Daraz,Dhaka,,,Negotiable,3,"SQL, Python, Tableau, Excel",BBA/MBA,2026-08-15,linkedin,,1,0,1,1,1,0,0,0,0,Mid (2-3),Negotiable
+BDJ-1328,Data Analyst - Power BI,Grameenphone,Dhaka,,,Negotiable,2,"Excel, SQL, Dashboard, ETL",BBA/MBA,2026-08-19,bdjobs,,1,0,1,0,0,0,1,1,0,Mid (2-3),Negotiable
+BDJ-1329,Business Intelligence Analyst,ACI,Chittagong,,,Negotiable,3,"SQL, Power BI, Excel",MSc,2026-09-11,bdjobs,,1,1,1,0,0,0,0,0,0,Mid (2-3),Negotiable
+BDJ-1330,Sales Data Analyst,Pathao,Dhaka,35000.0,50000.0,Tk. 35000-50000,3,"Excel, SQL, Dashboard, ETL",BBA/MBA,2026-08-30,bdjobs,42500.0,1,0,1,0,0,0,1,1,0,Mid (2-3),35-50k
+BDJ-1331,Junior Data Analyst,Daraz,Dhaka,,,Negotiable,2,"Excel, SQL, Dashboard, ETL",MSc,2026-09-13,linkedin,,1,0,1,0,0,0,1,1,0,Mid (2-3),Negotiable
+BDJ-1332,Sales Data Analyst,Pathao,Dhaka,,,Negotiable,2,"SQL, Power BI, Excel",BBA/MBA,2026-09-13,linkedin,,1,1,1,0,0,0,0,0,0,Mid (2-3),Negotiable
+BDJ-1333,Business Intelligence Analyst,Foodpanda,Dhaka,50000.0,65000.0,Tk. 50000-65000,1,"Python, SQL, Statistics, Power BI",MSc,2026-08-24,careerjet,57500.0,1,1,0,1,0,0,0,0,1,Fresher (0-1),50-70k
+BDJ-1334,Growth Data Analyst,BRAC Bank,Dhaka,25000.0,40000.0,Tk. 25000-40000,0,"SQL, Power BI, Excel",BBA/MBA,2026-09-12,careerjet,32500.0,1,1,1,0,0,0,0,0,0,Fresher (0-1),25-35k
+BDJ-1335,Growth Data Analyst,BRAC Bank,Dhaka,50000.0,65000.0,Tk. 50000-65000,0,"SQL, Python, Tableau, Excel",BBA/MBA,2026-08-13,careerjet,57500.0,1,0,1,1,1,0,0,0,0,Fresher (0-1),50-70k
+BDJ-1336,Growth Data Analyst,Foodpanda,Dhaka,,,Negotiable,4,"SQL, Power BI, Excel",BSc in CSE/Stats,2026-09-15,bdjobs,,1,1,1,0,0,0,0,0,0,Senior (4+),Negotiable
+BDJ-1337,Business Intelligence Analyst,Pathao,Dhaka,40000.0,55000.0,Tk. 40000-55000,3,"Excel, SQL, Dashboard, ETL",MSc,2026-08-18,bdjobs,47500.0,1,0,1,0,0,0,1,1,0,Mid (2-3),35-50k
+BDJ-1338,Junior Data Analyst,Well Group,Dhaka,,,Negotiable,3,"Excel, SQL, Dashboard, ETL",MSc,2026-09-10,bdjobs,,1,0,1,0,0,0,1,1,0,Mid (2-3),Negotiable
+BDJ-1339,Data Analyst - Power BI,PalmPay,Dhaka,,,Negotiable,2,"Power BI, Microsoft Fabric, SQL, Dashboard",MSc,2026-09-14,linkedin,,1,1,0,0,0,1,0,1,0,Mid (2-3),Negotiable
+BDJ-1340,Junior Data Analyst,Banglalink,Dhaka,25000.0,40000.0,Tk. 25000-40000,4,"SQL, Excel, Power BI, Looker",BBA/MBA,2026-08-22,bdjobs,32500.0,1,1,1,0,0,0,0,0,0,Senior (4+),25-35k
+BDJ-1341,Growth Data Analyst,PalmPay,Dhaka,,,Negotiable,3,"SQL, Power BI, Excel",BSc in CSE/Stats,2026-08-06,linkedin,,1,1,1,0,0,0,0,0,0,Mid (2-3),Negotiable
+BDJ-1342,BI Analyst,Chaldal,Dhaka,25000.0,35000.0,Tk. 25000-35000,2,"SQL, Excel, Power BI, Looker",BBA/MBA,2026-08-08,careerjet,30000.0,1,1,1,0,0,0,0,0,0,Mid (2-3),25-35k
+BDJ-1343,Junior Data Analyst,Well Group,Dhaka,,,Negotiable,2,"Python, SQL, Statistics, Power BI",BSc in CSE/Stats,2026-08-17,linkedin,,1,1,0,1,0,0,0,0,1,Mid (2-3),Negotiable
+BDJ-1344,BI Analyst,bKash,Dhaka,50000.0,60000.0,Tk. 50000-60000,3,"SQL, Python, Tableau, Excel",BSc in CSE/Stats,2026-09-08,careerjet,55000.0,1,0,1,1,1,0,0,0,0,Mid (2-3),50-70k
+BDJ-1345,Business Intelligence Analyst,Daraz,Dhaka,35000.0,50000.0,Tk. 35000-50000,0,"SQL, Python, Tableau, Excel",BSc in CSE/Stats,2026-09-13,careerjet,42500.0,1,0,1,1,1,0,0,0,0,Fresher (0-1),35-50k
+BDJ-1346,Sales Data Analyst,Chaldal,Dhaka,50000.0,65000.0,Tk. 50000-65000,3,"SQL, Excel, Power BI, Looker",BBA/MBA,2026-08-31,careerjet,57500.0,1,1,1,0,0,0,0,0,0,Mid (2-3),50-70k
+BDJ-1347,Junior Data Analyst,Daraz,Dhaka,35000.0,50000.0,Tk. 35000-50000,2,"SQL, Excel, Power BI, Looker",BBA/MBA,2026-08-31,linkedin,42500.0,1,1,1,0,0,0,0,0,0,Mid (2-3),35-50k
+BDJ-1348,Junior Data Analyst,Grameenphone,Chittagong,25000.0,40000.0,Tk. 25000-40000,2,"SQL, Python, Tableau, Excel",BSc in CSE/Stats,2026-08-06,bdjobs,32500.0,1,0,1,1,1,0,0,0,0,Mid (2-3),25-35k
+BDJ-1349,Junior Data Analyst,PalmPay,Dhaka,35000.0,50000.0,Tk. 35000-50000,2,"Python, SQL, Statistics, Power BI",MSc,2026-08-04,linkedin,42500.0,1,1,0,1,0,0,0,0,1,Mid (2-3),35-50k
+BDJ-1350,Data Analyst - Power BI,Well Group,Dhaka,25000.0,40000.0,Tk. 25000-40000,5,"Python, SQL, Statistics, Power BI",MSc,2026-08-25,bdjobs,32500.0,1,1,0,1,0,0,0,0,1,Senior (4+),25-35k
+BDJ-1351,BI Analyst,Well Group,Dhaka,20000.0,40000.0,Tk. 20000-40000,3,"Excel, SQL, Dashboard, ETL",BSc in CSE/Stats,2026-08-29,linkedin,30000.0,1,0,1,0,0,0,1,1,0,Mid (2-3),25-35k
+BDJ-1352,Business Intelligence Analyst,Chaldal,Dhaka,,,Negotiable,2,"SQL, Python, Tableau, Excel",BBA/MBA,2026-08-29,bdjobs,,1,0,1,1,1,0,0,0,0,Mid (2-3),Negotiable
+BDJ-1353,BI Analyst,PalmPay,Dhaka,,,Negotiable,3,"Excel, SQL, Dashboard, ETL",BSc in CSE/Stats,2026-09-02,careerjet,,1,0,1,0,0,0,1,1,0,Mid (2-3),Negotiable
+BDJ-1354,Growth Data Analyst,Well Group,Dhaka,,,Negotiable,5,"Power BI, Microsoft Fabric, SQL, Dashboard",BBA/MBA,2026-08-20,careerjet,,1,1,0,0,0,1,0,1,0,Senior (4+),Negotiable
+BDJ-1355,Business Intelligence Analyst,ACI,Remote,50000.0,60000.0,Tk. 50000-60000,2,"SQL, Python, Tableau, Excel",BBA/MBA,2026-08-24,linkedin,55000.0,1,0,1,1,1,0,0,0,0,Mid (2-3),50-70k
+BDJ-1356,Growth Data Analyst,Daraz,Dhaka,25000.0,45000.0,Tk. 25000-45000,3,"Power BI, Microsoft Fabric, SQL, Dashboard",MSc,2026-08-16,careerjet,35000.0,1,1,0,0,0,1,0,1,0,Mid (2-3),35-50k
+BDJ-1357,MIS Executive,BRAC Bank,Dhaka,,,Negotiable,4,"Excel, SQL, Dashboard, ETL",MSc,2026-08-25,careerjet,,1,0,1,0,0,0,1,1,0,Senior (4+),Negotiable
+BDJ-1358,MIS Executive,BRAC Bank,Dhaka,35000.0,45000.0,Tk. 35000-45000,3,"Excel, SQL, Dashboard, ETL",MSc,2026-08-07,bdjobs,40000.0,1,0,1,0,0,0,1,1,0,Mid (2-3),35-50k
+BDJ-1359,Growth Data Analyst,Grameenphone,Dhaka,,,Negotiable,0,"Python, SQL, Statistics, Power BI",BBA/MBA,2026-09-14,bdjobs,,1,1,0,1,0,0,0,0,1,Fresher (0-1),Negotiable
+BDJ-1360,MIS Executive,Foodpanda,Chittagong,,,Negotiable,2,"Power BI, Microsoft Fabric, SQL, Dashboard",BSc in CSE/Stats,2026-08-02,linkedin,,1,1,0,0,0,1,0,1,0,Mid (2-3),Negotiable
+BDJ-1361,Data Analyst - Power BI,PalmPay,Dhaka,,,Negotiable,2,"SQL, Python, Tableau, Excel",BBA/MBA,2026-08-23,linkedin,,1,0,1,1,1,0,0,0,0,Mid (2-3),Negotiable
+BDJ-1362,Junior Data Analyst,bKash,Dhaka,35000.0,45000.0,Tk. 35000-45000,3,"Power BI, Microsoft Fabric, SQL, Dashboard",BSc in CSE/Stats,2026-08-22,bdjobs,40000.0,1,1,0,0,0,1,0,1,0,Mid (2-3),35-50k
+BDJ-1363,Data Analyst - Power BI,Daraz,Dhaka,20000.0,40000.0,Tk. 20000-40000,4,"SQL, Excel, Power BI, Looker",MSc,2026-08-25,linkedin,30000.0,1,1,1,0,0,0,0,0,0,Senior (4+),25-35k
+BDJ-1364,MIS Executive,Daraz,Dhaka,,,Negotiable,1,"SQL, Python, Tableau, Excel",BBA/MBA,2026-09-02,bdjobs,,1,0,1,1,1,0,0,0,0,Fresher (0-1),Negotiable
+BDJ-1365,Growth Data Analyst,Grameenphone,Dhaka,18000.0,38000.0,Tk. 18000-38000,5,"Excel, SQL, Dashboard, ETL",MSc,2026-08-27,careerjet,28000.0,1,0,1,0,0,0,1,1,0,Senior (4+),25-35k
+BDJ-1366,MIS Executive,Daraz,Dhaka,40000.0,60000.0,Tk. 40000-60000,3,"Python, SQL, Statistics, Power BI",MSc,2026-08-06,linkedin,50000.0,1,1,0,1,0,0,0,0,1,Mid (2-3),50-70k
+BDJ-1367,MIS Executive,Chaldal,Dhaka,25000.0,40000.0,Tk. 25000-40000,0,"Excel, SQL, Dashboard, ETL",BSc in CSE/Stats,2026-09-01,careerjet,32500.0,1,0,1,0,0,0,1,1,0,Fresher (0-1),25-35k
+BDJ-1368,Growth Data Analyst,Grameenphone,Dhaka,18000.0,33000.0,Tk. 18000-33000,2,"Power BI, Microsoft Fabric, SQL, Dashboard",MSc,2026-09-04,careerjet,25500.0,1,1,0,0,0,1,0,1,0,Mid (2-3),25-35k
+BDJ-1369,Data Analyst - Power BI,Grameenphone,Chittagong,20000.0,35000.0,Tk. 20000-35000,2,"Python, SQL, Statistics, Power BI",BBA/MBA,2026-08-18,bdjobs,27500.0,1,1,0,1,0,0,0,0,1,Mid (2-3),25-35k
+BDJ-1370,Data Analyst - Power BI,Chaldal,Dhaka,,,Negotiable,3,"SQL, Power BI, Excel",MSc,2026-08-19,linkedin,,1,1,1,0,0,0,0,0,0,Mid (2-3),Negotiable
+BDJ-1371,Data Analyst,bKash,Dhaka,25000.0,35000.0,Tk. 25000-35000,0,"Python, SQL, Statistics, Power BI",BSc in CSE/Stats,2026-08-06,careerjet,30000.0,1,1,0,1,0,0,0,0,1,Fresher (0-1),25-35k
+BDJ-1372,Data Analyst,Rokomari,Dhaka,,,Negotiable,2,"SQL, Excel, Power BI, Looker",BBA/MBA,2026-09-03,careerjet,,1,1,1,0,0,0,0,0,0,Mid (2-3),Negotiable
+BDJ-1373,BI Analyst,Chaldal,Dhaka,35000.0,45000.0,Tk. 35000-45000,2,"Python, SQL, Statistics, Power BI",BSc in CSE/Stats,2026-08-04,linkedin,40000.0,1,1,0,1,0,0,0,0,1,Mid (2-3),35-50k
+BDJ-1374,MIS Executive,Rokomari,Dhaka,,,Negotiable,5,"Power BI, Microsoft Fabric, SQL, Dashboard",MSc,2026-09-01,bdjobs,,1,1,0,0,0,1,0,1,0,Senior (4+),Negotiable
+BDJ-1375,Growth Data Analyst,Rokomari,Dhaka,,,Negotiable,5,"Python, SQL, Statistics, Power BI",MSc,2026-09-13,careerjet,,1,1,0,1,0,0,0,0,1,Senior (4+),Negotiable
+BDJ-1376,MIS Executive,Daraz,Dhaka,,,Negotiable,0,"SQL, Excel, Power BI, Looker",BSc in CSE/Stats,2026-08-18,bdjobs,,1,1,1,0,0,0,0,0,0,Fresher (0-1),Negotiable
+BDJ-1377,Data Analyst,Well Group,Dhaka,18000.0,33000.0,Tk. 18000-33000,5,"Python, SQL, Statistics, Power BI",MSc,2026-09-09,careerjet,25500.0,1,1,0,1,0,0,0,0,1,Senior (4+),25-35k
+BDJ-1378,Data Analyst,Foodpanda,Dhaka,35000.0,55000.0,Tk. 35000-55000,1,"SQL, Python, Tableau, Excel",BSc in CSE/Stats,2026-09-13,careerjet,45000.0,1,0,1,1,1,0,0,0,0,Fresher (0-1),35-50k
+BDJ-1379,BI Analyst,Foodpanda,Dhaka,20000.0,30000.0,Tk. 20000-30000,1,"SQL, Power BI, Excel",MSc,2026-08-02,careerjet,25000.0,1,1,1,0,0,0,0,0,0,Fresher (0-1),25-35k
+BDJ-1380,Data Analyst,Foodpanda,Dhaka,35000.0,55000.0,Tk. 35000-55000,2,"Excel, SQL, Dashboard, ETL",BSc in CSE/Stats,2026-08-05,linkedin,45000.0,1,0,1,0,0,0,1,1,0,Mid (2-3),35-50k
+BDJ-1381,Junior Data Analyst,Banglalink,Dhaka,35000.0,55000.0,Tk. 35000-55000,5,"Excel, SQL, Dashboard, ETL",BSc in CSE/Stats,2026-08-06,bdjobs,45000.0,1,0,1,0,0,0,1,1,0,Senior (4+),35-50k
+BDJ-1382,Junior Data Analyst,ACI,Dhaka,40000.0,60000.0,Tk. 40000-60000,0,"SQL, Python, Tableau, Excel",MSc,2026-09-05,bdjobs,50000.0,1,0,1,1,1,0,0,0,0,Fresher (0-1),50-70k
+BDJ-1383,BI Analyst,bKash,Dhaka,,,Negotiable,3,"SQL, Power BI, Excel",MSc,2026-08-27,bdjobs,,1,1,1,0,0,0,0,0,0,Mid (2-3),Negotiable
+BDJ-1384,Growth Data Analyst,Foodpanda,Dhaka,25000.0,40000.0,Tk. 25000-40000,1,"Python, SQL, Statistics, Power BI",BBA/MBA,2026-09-09,bdjobs,32500.0,1,1,0,1,0,0,0,0,1,Fresher (0-1),25-35k
+BDJ-1385,Business Intelligence Analyst,Daraz,Dhaka,,,Negotiable,0,"SQL, Excel, Power BI, Looker",MSc,2026-08-31,careerjet,,1,1,1,0,0,0,0,0,0,Fresher (0-1),Negotiable
+BDJ-1386,Business Intelligence Analyst,PalmPay,Dhaka,35000.0,50000.0,Tk. 35000-50000,0,"Python, SQL, Statistics, Power BI",MSc,2026-08-19,careerjet,42500.0,1,1,0,1,0,0,0,0,1,Fresher (0-1),35-50k
+BDJ-1387,Junior Data Analyst,Daraz,Dhaka,,,Negotiable,2,"SQL, Power BI, Excel",BBA/MBA,2026-08-31,bdjobs,,1,1,1,0,0,0,0,0,0,Mid (2-3),Negotiable
+BDJ-1388,Data Analyst - Power BI,ACI,Dhaka,35000.0,50000.0,Tk. 35000-50000,4,"Python, SQL, Statistics, Power BI",BSc in CSE/Stats,2026-09-15,bdjobs,42500.0,1,1,0,1,0,0,0,0,1,Senior (4+),35-50k
+BDJ-1389,Sales Data Analyst,Rokomari,Dhaka,20000.0,40000.0,Tk. 20000-40000,0,"SQL, Excel, Power BI, Looker",BSc in CSE/Stats,2026-08-10,bdjobs,30000.0,1,1,1,0,0,0,0,0,0,Fresher (0-1),25-35k
+BDJ-1390,Sales Data Analyst,Well Group,Dhaka,20000.0,40000.0,Tk. 20000-40000,3,"SQL, Python, Tableau, Excel",MSc,2026-08-26,linkedin,30000.0,1,0,1,1,1,0,0,0,0,Mid (2-3),25-35k
+BDJ-1391,Business Intelligence Analyst,Pathao,Dhaka,,,Negotiable,5,"SQL, Power BI, Excel",BBA/MBA,2026-08-06,bdjobs,,1,1,1,0,0,0,0,0,0,Senior (4+),Negotiable
+BDJ-1392,Data Analyst,Grameenphone,Chittagong,,,Negotiable,4,"SQL, Excel, Power BI, Looker",BSc in CSE/Stats,2026-08-29,careerjet,,1,1,1,0,0,0,0,0,0,Senior (4+),Negotiable
+BDJ-1393,Junior Data Analyst,BRAC Bank,Dhaka,,,Negotiable,5,"Excel, SQL, Dashboard, ETL",BSc in CSE/Stats,2026-08-29,bdjobs,,1,0,1,0,0,0,1,1,0,Senior (4+),Negotiable
+BDJ-1394,Growth Data Analyst,Banglalink,Dhaka,18000.0,28000.0,Tk. 18000-28000,2,"Python, SQL, Statistics, Power BI",MSc,2026-08-22,careerjet,23000.0,1,1,0,1,0,0,0,0,1,Mid (2-3),15-25k
+BDJ-1395,MIS Executive,bKash,Remote,,,Negotiable,4,"Python, SQL, Statistics, Power BI",BSc in CSE/Stats,2026-09-09,bdjobs,,1,1,0,1,0,0,0,0,1,Senior (4+),Negotiable
+BDJ-1396,Sales Data Analyst,Banglalink,Dhaka,50000.0,70000.0,Tk. 50000-70000,5,"Excel, SQL, Dashboard, ETL",MSc,2026-08-31,linkedin,60000.0,1,0,1,0,0,0,1,1,0,Senior (4+),50-70k
+BDJ-1397,Sales Data Analyst,Chaldal,Dhaka,50000.0,60000.0,Tk. 50000-60000,5,"SQL, Python, Tableau, Excel",BSc in CSE/Stats,2026-08-13,bdjobs,55000.0,1,0,1,1,1,0,0,0,0,Senior (4+),50-70k
+BDJ-1398,MIS Executive,Foodpanda,Dhaka,50000.0,60000.0,Tk. 50000-60000,4,"Excel, SQL, Dashboard, ETL",BBA/MBA,2026-09-02,careerjet,55000.0,1,0,1,0,0,0,1,1,0,Senior (4+),50-70k
+BDJ-1399,Data Analyst,Daraz,Dhaka,40000.0,60000.0,Tk. 40000-60000,5,"Python, SQL, Statistics, Power BI",MSc,2026-08-22,bdjobs,50000.0,1,1,0,1,0,0,0,0,1,Senior (4+),50-70k
+BDJ-1400,Business Intelligence Analyst,Pathao,Dhaka,35000.0,55000.0,Tk. 35000-55000,1,"Excel, SQL, Dashboard, ETL",BBA/MBA,2026-08-03,linkedin,45000.0,1,0,1,0,0,0,1,1,0,Fresher (0-1),35-50k
+BDJ-1401,MIS Executive,PalmPay,Chittagong,,,Negotiable,1,"SQL, Excel, Power BI, Looker",MSc,2026-08-05,linkedin,,1,1,1,0,0,0,0,0,0,Fresher (0-1),Negotiable
+BDJ-1402,MIS Executive,BRAC Bank,Chittagong,,,Negotiable,1,"Excel, SQL, Dashboard, ETL",BSc in CSE/Stats,2026-08-27,linkedin,,1,0,1,0,0,0,1,1,0,Fresher (0-1),Negotiable
+BDJ-1403,Growth Data Analyst,bKash,Dhaka,50000.0,70000.0,Tk. 50000-70000,2,"SQL, Power BI, Excel",BBA/MBA,2026-09-05,careerjet,60000.0,1,1,1,0,0,0,0,0,0,Mid (2-3),50-70k
+BDJ-1404,MIS Executive,Grameenphone,Dhaka,50000.0,65000.0,Tk. 50000-65000,4,"Power BI, Microsoft Fabric, SQL, Dashboard",BBA/MBA,2026-08-23,bdjobs,57500.0,1,1,0,0,0,1,0,1,0,Senior (4+),50-70k
+BDJ-1405,Sales Data Analyst,PalmPay,Sylhet,18000.0,33000.0,Tk. 18000-33000,2,"Excel, SQL, Dashboard, ETL",BBA/MBA,2026-08-26,linkedin,25500.0,1,0,1,0,0,0,1,1,0,Mid (2-3),25-35k
+BDJ-1406,BI Analyst,bKash,Dhaka,25000.0,40000.0,Tk. 25000-40000,2,"Python, SQL, Statistics, Power BI",BBA/MBA,2026-09-07,careerjet,32500.0,1,1,0,1,0,0,0,0,1,Mid (2-3),25-35k
+BDJ-1407,Growth Data Analyst,BRAC Bank,Chittagong,,,Negotiable,4,"SQL, Power BI, Excel",BSc in CSE/Stats,2026-08-25,bdjobs,,1,1,1,0,0,0,0,0,0,Senior (4+),Negotiable
+BDJ-1408,Growth Data Analyst,Chaldal,Remote,25000.0,35000.0,Tk. 25000-35000,3,"SQL, Power BI, Excel",BSc in CSE/Stats,2026-08-19,linkedin,30000.0,1,1,1,0,0,0,0,0,0,Mid (2-3),25-35k
+BDJ-1409,MIS Executive,Chaldal,Dhaka,40000.0,55000.0,Tk. 40000-55000,3,"SQL, Power BI, Excel",MSc,2026-09-15,careerjet,47500.0,1,1,1,0,0,0,0,0,0,Mid (2-3),35-50k
+BDJ-1410,Data Analyst,Grameenphone,Remote,20000.0,40000.0,Tk. 20000-40000,5,"SQL, Excel, Power BI, Looker",MSc,2026-09-12,bdjobs,30000.0,1,1,1,0,0,0,0,0,0,Senior (4+),25-35k
+BDJ-1411,Junior Data Analyst,Foodpanda,Dhaka,20000.0,30000.0,Tk. 20000-30000,2,"SQL, Python, Tableau, Excel",BSc in CSE/Stats,2026-08-23,careerjet,25000.0,1,0,1,1,1,0,0,0,0,Mid (2-3),25-35k
+BDJ-1412,Junior Data Analyst,Chaldal,Dhaka,35000.0,55000.0,Tk. 35000-55000,4,"Excel, SQL, Dashboard, ETL",BSc in CSE/Stats,2026-08-28,careerjet,45000.0,1,0,1,0,0,0,1,1,0,Senior (4+),35-50k
+BDJ-1413,Data Analyst,Well Group,Dhaka,20000.0,35000.0,Tk. 20000-35000,5,"Power BI, Microsoft Fabric, SQL, Dashboard",BSc in CSE/Stats,2026-09-12,linkedin,27500.0,1,1,0,0,0,1,0,1,0,Senior (4+),25-35k
+BDJ-1414,Junior Data Analyst,Chaldal,Dhaka,25000.0,45000.0,Tk. 25000-45000,0,"Python, SQL, Statistics, Power BI",BBA/MBA,2026-08-31,linkedin,35000.0,1,1,0,1,0,0,0,0,1,Fresher (0-1),35-50k
+BDJ-1415,Business Intelligence Analyst,Foodpanda,Dhaka,50000.0,65000.0,Tk. 50000-65000,2,"Python, SQL, Statistics, Power BI",BBA/MBA,2026-08-06,careerjet,57500.0,1,1,0,1,0,0,0,0,1,Mid (2-3),50-70k
+BDJ-1416,Data Analyst,Chaldal,Dhaka,25000.0,45000.0,Tk. 25000-45000,2,"Python, SQL, Statistics, Power BI",BBA/MBA,2026-08-29,bdjobs,35000.0,1,1,0,1,0,0,0,0,1,Mid (2-3),35-50k
+BDJ-1417,Growth Data Analyst,Rokomari,Dhaka,35000.0,55000.0,Tk. 35000-55000,3,"Power BI, Microsoft Fabric, SQL, Dashboard",MSc,2026-08-07,careerjet,45000.0,1,1,0,0,0,1,0,1,0,Mid (2-3),35-50k
+BDJ-1418,Junior Data Analyst,bKash,Dhaka,25000.0,40000.0,Tk. 25000-40000,3,"SQL, Excel, Power BI, Looker",MSc,2026-09-13,linkedin,32500.0,1,1,1,0,0,0,0,0,0,Mid (2-3),25-35k
+BDJ-1419,Sales Data Analyst,Grameenphone,Dhaka,25000.0,40000.0,Tk. 25000-40000,5,"SQL, Python, Tableau, Excel",BBA/MBA,2026-08-16,linkedin,32500.0,1,0,1,1,1,0,0,0,0,Senior (4+),25-35k
+BDJ-1420,Growth Data Analyst,Daraz,Remote,40000.0,50000.0,Tk. 40000-50000,3,"Power BI, Microsoft Fabric, SQL, Dashboard",BBA/MBA,2026-08-15,linkedin,45000.0,1,1,0,0,0,1,0,1,0,Mid (2-3),35-50k
+BDJ-1421,Growth Data Analyst,bKash,Dhaka,50000.0,60000.0,Tk. 50000-60000,2,"SQL, Python, Tableau, Excel",BBA/MBA,2026-08-06,bdjobs,55000.0,1,0,1,1,1,0,0,0,0,Mid (2-3),50-70k
+BDJ-1422,Growth Data Analyst,Daraz,Dhaka,,,Negotiable,2,"SQL, Python, Tableau, Excel",MSc,2026-08-19,careerjet,,1,0,1,1,1,0,0,0,0,Mid (2-3),Negotiable
+BDJ-1423,MIS Executive,Daraz,Dhaka,,,Negotiable,5,"SQL, Python, Tableau, Excel",BBA/MBA,2026-08-02,linkedin,,1,0,1,1,1,0,0,0,0,Senior (4+),Negotiable
+BDJ-1424,BI Analyst,BRAC Bank,Dhaka,18000.0,33000.0,Tk. 18000-33000,0,"SQL, Excel, Power BI, Looker",MSc,2026-08-10,linkedin,25500.0,1,1,1,0,0,0,0,0,0,Fresher (0-1),25-35k
+BDJ-1425,Data Analyst - Power BI,BRAC Bank,Dhaka,35000.0,45000.0,Tk. 35000-45000,1,"Power BI, Microsoft Fabric, SQL, Dashboard",BBA/MBA,2026-08-28,bdjobs,40000.0,1,1,0,0,0,1,0,1,0,Fresher (0-1),35-50k
+BDJ-1426,MIS Executive,Well Group,Dhaka,35000.0,45000.0,Tk. 35000-45000,1,"Power BI, Microsoft Fabric, SQL, Dashboard",BSc in CSE/Stats,2026-09-04,bdjobs,40000.0,1,1,0,0,0,1,0,1,0,Fresher (0-1),35-50k
+BDJ-1427,BI Analyst,Pathao,Dhaka,,,Negotiable,0,"Power BI, Microsoft Fabric, SQL, Dashboard",BBA/MBA,2026-08-08,bdjobs,,1,1,0,0,0,1,0,1,0,Fresher (0-1),Negotiable
+BDJ-1428,Data Analyst - Power BI,Banglalink,Dhaka,20000.0,40000.0,Tk. 20000-40000,2,"Power BI, Microsoft Fabric, SQL, Dashboard",BSc in CSE/Stats,2026-09-07,bdjobs,30000.0,1,1,0,0,0,1,0,1,0,Mid (2-3),25-35k
+BDJ-1429,MIS Executive,bKash,Dhaka,,,Negotiable,3,"SQL, Excel, Power BI, Looker",BBA/MBA,2026-08-12,linkedin,,1,1,1,0,0,0,0,0,0,Mid (2-3),Negotiable
+BDJ-1430,Growth Data Analyst,Chaldal,Dhaka,50000.0,70000.0,Tk. 50000-70000,2,"SQL, Python, Tableau, Excel",BBA/MBA,2026-08-28,linkedin,60000.0,1,0,1,1,1,0,0,0,0,Mid (2-3),50-70k
+BDJ-1431,Data Analyst - Power BI,bKash,Dhaka,40000.0,50000.0,Tk. 40000-50000,3,"Python, SQL, Statistics, Power BI",BBA/MBA,2026-08-20,careerjet,45000.0,1,1,0,1,0,0,0,0,1,Mid (2-3),35-50k
+BDJ-1432,Data Analyst,Foodpanda,Dhaka,,,Negotiable,0,"Python, SQL, Statistics, Power BI",BSc in CSE/Stats,2026-08-22,careerjet,,1,1,0,1,0,0,0,0,1,Fresher (0-1),Negotiable
+BDJ-1433,Data Analyst - Power BI,PalmPay,Dhaka,,,Negotiable,5,"Power BI, Microsoft Fabric, SQL, Dashboard",BBA/MBA,2026-09-01,careerjet,,1,1,0,0,0,1,0,1,0,Senior (4+),Negotiable
+BDJ-1434,BI Analyst,bKash,Dhaka,25000.0,40000.0,Tk. 25000-40000,3,"Power BI, Microsoft Fabric, SQL, Dashboard",BSc in CSE/Stats,2026-08-22,bdjobs,32500.0,1,1,0,0,0,1,0,1,0,Mid (2-3),25-35k
+BDJ-1435,Growth Data Analyst,Pathao,Dhaka,18000.0,33000.0,Tk. 18000-33000,0,"SQL, Excel, Power BI, Looker",BSc in CSE/Stats,2026-08-03,careerjet,25500.0,1,1,1,0,0,0,0,0,0,Fresher (0-1),25-35k
+BDJ-1436,Data Analyst - Power BI,Banglalink,Dhaka,40000.0,50000.0,Tk. 40000-50000,0,"Power BI, Microsoft Fabric, SQL, Dashboard",BBA/MBA,2026-09-01,careerjet,45000.0,1,1,0,0,0,1,0,1,0,Fresher (0-1),35-50k
+BDJ-1437,Growth Data Analyst,Banglalink,Dhaka,50000.0,60000.0,Tk. 50000-60000,3,"SQL, Excel, Power BI, Looker",MSc,2026-08-03,careerjet,55000.0,1,1,1,0,0,0,0,0,0,Mid (2-3),50-70k
+BDJ-1438,Junior Data Analyst,Rokomari,Dhaka,18000.0,28000.0,Tk. 18000-28000,4,"Excel, SQL, Dashboard, ETL",BSc in CSE/Stats,2026-09-07,bdjobs,23000.0,1,0,1,0,0,0,1,1,0,Senior (4+),15-25k
+BDJ-1439,Sales Data Analyst,Chaldal,Dhaka,40000.0,60000.0,Tk. 40000-60000,3,"SQL, Power BI, Excel",BBA/MBA,2026-08-08,linkedin,50000.0,1,1,1,0,0,0,0,0,0,Mid (2-3),50-70k
+BDJ-1440,Junior Data Analyst,bKash,Dhaka,18000.0,28000.0,Tk. 18000-28000,2,"SQL, Python, Tableau, Excel",BBA/MBA,2026-08-19,linkedin,23000.0,1,0,1,1,1,0,0,0,0,Mid (2-3),15-25k
+BDJ-1441,Junior Data Analyst,Foodpanda,Dhaka,,,Negotiable,3,"Python, SQL, Statistics, Power BI",BSc in CSE/Stats,2026-09-15,bdjobs,,1,1,0,1,0,0,0,0,1,Mid (2-3),Negotiable
+BDJ-1442,Growth Data Analyst,Banglalink,Dhaka,18000.0,33000.0,Tk. 18000-33000,0,"SQL, Python, Tableau, Excel",BBA/MBA,2026-08-20,careerjet,25500.0,1,0,1,1,1,0,0,0,0,Fresher (0-1),25-35k
+BDJ-1443,Business Intelligence Analyst,Chaldal,Dhaka,,,Negotiable,5,"SQL, Python, Tableau, Excel",BBA/MBA,2026-09-01,careerjet,,1,0,1,1,1,0,0,0,0,Senior (4+),Negotiable
+BDJ-1444,MIS Executive,BRAC Bank,Dhaka,20000.0,30000.0,Tk. 20000-30000,2,"Python, SQL, Statistics, Power BI",MSc,2026-09-02,bdjobs,25000.0,1,1,0,1,0,0,0,0,1,Mid (2-3),25-35k
+BDJ-1445,Data Analyst - Power BI,Rokomari,Dhaka,40000.0,50000.0,Tk. 40000-50000,5,"SQL, Power BI, Excel",BBA/MBA,2026-08-27,bdjobs,45000.0,1,1,1,0,0,0,0,0,0,Senior (4+),35-50k
+BDJ-1446,Sales Data Analyst,Chaldal,Dhaka,,,Negotiable,3,"SQL, Power BI, Excel",MSc,2026-09-04,bdjobs,,1,1,1,0,0,0,0,0,0,Mid (2-3),Negotiable
+BDJ-1447,Data Analyst - Power BI,Foodpanda,Chittagong,18000.0,33000.0,Tk. 18000-33000,4,"Power BI, Microsoft Fabric, SQL, Dashboard",BSc in CSE/Stats,2026-08-03,careerjet,25500.0,1,1,0,0,0,1,0,1,0,Senior (4+),25-35k
+BDJ-1448,Sales Data Analyst,Grameenphone,Dhaka,40000.0,50000.0,Tk. 40000-50000,2,"SQL, Excel, Power BI, Looker",MSc,2026-08-07,linkedin,45000.0,1,1,1,0,0,0,0,0,0,Mid (2-3),35-50k
+BDJ-1449,Junior Data Analyst,ACI,Dhaka,40000.0,60000.0,Tk. 40000-60000,4,"Python, SQL, Statistics, Power BI",BSc in CSE/Stats,2026-09-12,bdjobs,50000.0,1,1,0,1,0,0,0,0,1,Senior (4+),50-70k
+BDJ-1450,MIS Executive,PalmPay,Dhaka,35000.0,50000.0,Tk. 35000-50000,2,"SQL, Excel, Power BI, Looker",BBA/MBA,2026-08-07,careerjet,42500.0,1,1,1,0,0,0,0,0,0,Mid (2-3),35-50k
+BDJ-1451,BI Analyst,Well Group,Dhaka,18000.0,33000.0,Tk. 18000-33000,3,"SQL, Excel, Power BI, Looker",BBA/MBA,2026-08-15,bdjobs,25500.0,1,1,1,0,0,0,0,0,0,Mid (2-3),25-35k
+BDJ-1452,Junior Data Analyst,Foodpanda,Dhaka,20000.0,35000.0,Tk. 20000-35000,3,"SQL, Power BI, Excel",BSc in CSE/Stats,2026-09-12,bdjobs,27500.0,1,1,1,0,0,0,0,0,0,Mid (2-3),25-35k
+BDJ-1453,Data Analyst,Foodpanda,Remote,20000.0,40000.0,Tk. 20000-40000,2,"SQL, Excel, Power BI, Looker",MSc,2026-08-21,linkedin,30000.0,1,1,1,0,0,0,0,0,0,Mid (2-3),25-35k
+BDJ-1454,MIS Executive,Daraz,Dhaka,,,Negotiable,3,"SQL, Power BI, Excel",MSc,2026-08-12,bdjobs,,1,1,1,0,0,0,0,0,0,Mid (2-3),Negotiable
+BDJ-1455,Data Analyst - Power BI,PalmPay,Dhaka,20000.0,35000.0,Tk. 20000-35000,2,"SQL, Python, Tableau, Excel",BBA/MBA,2026-08-08,careerjet,27500.0,1,0,1,1,1,0,0,0,0,Mid (2-3),25-35k
+BDJ-1456,Data Analyst - Power BI,bKash,Dhaka,,,Negotiable,3,"SQL, Python, Tableau, Excel",BBA/MBA,2026-08-28,bdjobs,,1,0,1,1,1,0,0,0,0,Mid (2-3),Negotiable
+BDJ-1457,BI Analyst,Banglalink,Dhaka,18000.0,33000.0,Tk. 18000-33000,3,"SQL, Power BI, Excel",BSc in CSE/Stats,2026-09-14,bdjobs,25500.0,1,1,1,0,0,0,0,0,0,Mid (2-3),25-35k
+BDJ-1458,Growth Data Analyst,Foodpanda,Dhaka,35000.0,50000.0,Tk. 35000-50000,2,"Excel, SQL, Dashboard, ETL",MSc,2026-09-04,careerjet,42500.0,1,0,1,0,0,0,1,1,0,Mid (2-3),35-50k
+BDJ-1459,Sales Data Analyst,PalmPay,Dhaka,25000.0,45000.0,Tk. 25000-45000,0,"Python, SQL, Statistics, Power BI",BBA/MBA,2026-08-15,careerjet,35000.0,1,1,0,1,0,0,0,0,1,Fresher (0-1),35-50k
+BDJ-1460,MIS Executive,Daraz,Dhaka,20000.0,35000.0,Tk. 20000-35000,4,"Python, SQL, Statistics, Power BI",BBA/MBA,2026-08-31,careerjet,27500.0,1,1,0,1,0,0,0,0,1,Senior (4+),25-35k
+BDJ-1461,BI Analyst,Chaldal,Dhaka,40000.0,60000.0,Tk. 40000-60000,2,"SQL, Power BI, Excel",BBA/MBA,2026-09-13,linkedin,50000.0,1,1,1,0,0,0,0,0,0,Mid (2-3),50-70k
+BDJ-1462,BI Analyst,ACI,Dhaka,,,Negotiable,2,"Power BI, Microsoft Fabric, SQL, Dashboard",BBA/MBA,2026-08-12,careerjet,,1,1,0,0,0,1,0,1,0,Mid (2-3),Negotiable
+BDJ-1463,BI Analyst,Pathao,Dhaka,20000.0,35000.0,Tk. 20000-35000,4,"Python, SQL, Statistics, Power BI",MSc,2026-08-03,linkedin,27500.0,1,1,0,1,0,0,0,0,1,Senior (4+),25-35k
+BDJ-1464,BI Analyst,bKash,Dhaka,40000.0,55000.0,Tk. 40000-55000,3,"SQL, Power BI, Excel",BBA/MBA,2026-09-04,bdjobs,47500.0,1,1,1,0,0,0,0,0,0,Mid (2-3),35-50k
+BDJ-1465,BI Analyst,BRAC Bank,Dhaka,,,Negotiable,2,"SQL, Excel, Power BI, Looker",BSc in CSE/Stats,2026-08-02,bdjobs,,1,1,1,0,0,0,0,0,0,Mid (2-3),Negotiable
+BDJ-1466,Sales Data Analyst,BRAC Bank,Dhaka,25000.0,45000.0,Tk. 25000-45000,3,"Excel, SQL, Dashboard, ETL",BSc in CSE/Stats,2026-08-11,careerjet,35000.0,1,0,1,0,0,0,1,1,0,Mid (2-3),35-50k
+BDJ-1467,Data Analyst - Power BI,Rokomari,Chittagong,20000.0,40000.0,Tk. 20000-40000,4,"Python, SQL, Statistics, Power BI",MSc,2026-08-26,linkedin,30000.0,1,1,0,1,0,0,0,0,1,Senior (4+),25-35k
+BDJ-1468,BI Analyst,Foodpanda,Dhaka,40000.0,50000.0,Tk. 40000-50000,4,"SQL, Excel, Power BI, Looker",MSc,2026-08-10,linkedin,45000.0,1,1,1,0,0,0,0,0,0,Senior (4+),35-50k
+BDJ-1469,Data Analyst - Power BI,Well Group,Dhaka,,,Negotiable,0,"SQL, Power BI, Excel",BBA/MBA,2026-09-13,linkedin,,1,1,1,0,0,0,0,0,0,Fresher (0-1),Negotiable
+BDJ-1470,Data Analyst,Grameenphone,Dhaka,25000.0,45000.0,Tk. 25000-45000,5,"Excel, SQL, Dashboard, ETL",MSc,2026-09-08,careerjet,35000.0,1,0,1,0,0,0,1,1,0,Senior (4+),35-50k
+BDJ-1471,Data Analyst - Power BI,Well Group,Dhaka,40000.0,55000.0,Tk. 40000-55000,3,"SQL, Excel, Power BI, Looker",BBA/MBA,2026-08-09,careerjet,47500.0,1,1,1,0,0,0,0,0,0,Mid (2-3),35-50k
+BDJ-1472,Junior Data Analyst,Rokomari,Remote,40000.0,60000.0,Tk. 40000-60000,1,"Power BI, Microsoft Fabric, SQL, Dashboard",BBA/MBA,2026-08-30,linkedin,50000.0,1,1,0,0,0,1,0,1,0,Fresher (0-1),50-70k
+BDJ-1473,BI Analyst,Pathao,Dhaka,20000.0,35000.0,Tk. 20000-35000,5,"SQL, Python, Tableau, Excel",BBA/MBA,2026-09-02,careerjet,27500.0,1,0,1,1,1,0,0,0,0,Senior (4+),25-35k
+BDJ-1474,BI Analyst,Daraz,Chittagong,40000.0,60000.0,Tk. 40000-60000,3,"Excel, SQL, Dashboard, ETL",BSc in CSE/Stats,2026-08-25,linkedin,50000.0,1,0,1,0,0,0,1,1,0,Mid (2-3),50-70k
+BDJ-1475,Data Analyst,Banglalink,Remote,,,Negotiable,0,"Python, SQL, Statistics, Power BI",MSc,2026-09-04,linkedin,,1,1,0,1,0,0,0,0,1,Fresher (0-1),Negotiable
+BDJ-1476,Junior Data Analyst,ACI,Dhaka,40000.0,60000.0,Tk. 40000-60000,2,"Excel, SQL, Dashboard, ETL",BBA/MBA,2026-08-09,linkedin,50000.0,1,0,1,0,0,0,1,1,0,Mid (2-3),50-70k
+BDJ-1477,BI Analyst,Rokomari,Dhaka,50000.0,60000.0,Tk. 50000-60000,3,"Excel, SQL, Dashboard, ETL",BBA/MBA,2026-08-28,bdjobs,55000.0,1,0,1,0,0,0,1,1,0,Mid (2-3),50-70k
+BDJ-1478,Junior Data Analyst,Foodpanda,Dhaka,35000.0,45000.0,Tk. 35000-45000,1,"SQL, Excel, Power BI, Looker",BBA/MBA,2026-08-08,careerjet,40000.0,1,1,1,0,0,0,0,0,0,Fresher (0-1),35-50k
+BDJ-1479,Junior Data Analyst,Grameenphone,Dhaka,,,Negotiable,5,"Excel, SQL, Dashboard, ETL",BSc in CSE/Stats,2026-09-05,linkedin,,1,0,1,0,0,0,1,1,0,Senior (4+),Negotiable
+BDJ-1480,BI Analyst,Chaldal,Remote,50000.0,65000.0,Tk. 50000-65000,1,"SQL, Python, Tableau, Excel",BBA/MBA,2026-08-24,linkedin,57500.0,1,0,1,1,1,0,0,0,0,Fresher (0-1),50-70k
+BDJ-1481,Growth Data Analyst,PalmPay,Dhaka,,,Negotiable,4,"SQL, Python, Tableau, Excel",BSc in CSE/Stats,2026-08-04,bdjobs,,1,0,1,1,1,0,0,0,0,Senior (4+),Negotiable
+BDJ-1482,Data Analyst,Grameenphone,Dhaka,,,Negotiable,0,"Excel, SQL, Dashboard, ETL",BSc in CSE/Stats,2026-08-25,careerjet,,1,0,1,0,0,0,1,1,0,Fresher (0-1),Negotiable
+BDJ-1483,Business Intelligence Analyst,Rokomari,Dhaka,,,Negotiable,5,"Power BI, Microsoft Fabric, SQL, Dashboard",BSc in CSE/Stats,2026-08-14,bdjobs,,1,1,0,0,0,1,0,1,0,Senior (4+),Negotiable
+BDJ-1484,Business Intelligence Analyst,PalmPay,Dhaka,35000.0,50000.0,Tk. 35000-50000,4,"Power BI, Microsoft Fabric, SQL, Dashboard",BBA/MBA,2026-08-21,bdjobs,42500.0,1,1,0,0,0,1,0,1,0,Senior (4+),35-50k
+BDJ-1485,Business Intelligence Analyst,ACI,Dhaka,35000.0,55000.0,Tk. 35000-55000,1,"SQL, Excel, Power BI, Looker",BBA/MBA,2026-09-04,careerjet,45000.0,1,1,1,0,0,0,0,0,0,Fresher (0-1),35-50k
+BDJ-1486,Junior Data Analyst,Banglalink,Dhaka,18000.0,38000.0,Tk. 18000-38000,1,"Excel, SQL, Dashboard, ETL",BBA/MBA,2026-09-07,bdjobs,28000.0,1,0,1,0,0,0,1,1,0,Fresher (0-1),25-35k
+BDJ-1487,Junior Data Analyst,Grameenphone,Dhaka,50000.0,60000.0,Tk. 50000-60000,5,"Power BI, Microsoft Fabric, SQL, Dashboard",BBA/MBA,2026-08-14,careerjet,55000.0,1,1,0,0,0,1,0,1,0,Senior (4+),50-70k
+BDJ-1488,Sales Data Analyst,Foodpanda,Dhaka,35000.0,55000.0,Tk. 35000-55000,3,"Excel, SQL, Dashboard, ETL",BSc in CSE/Stats,2026-08-14,linkedin,45000.0,1,0,1,0,0,0,1,1,0,Mid (2-3),35-50k
+BDJ-1489,Business Intelligence Analyst,Grameenphone,Dhaka,,,Negotiable,2,"Power BI, Microsoft Fabric, SQL, Dashboard",BSc in CSE/Stats,2026-09-02,bdjobs,,1,1,0,0,0,1,0,1,0,Mid (2-3),Negotiable
+BDJ-1490,Business Intelligence Analyst,Chaldal,Dhaka,25000.0,45000.0,Tk. 25000-45000,1,"SQL, Power BI, Excel",BBA/MBA,2026-08-14,bdjobs,35000.0,1,1,1,0,0,0,0,0,0,Fresher (0-1),35-50k
+BDJ-1491,Sales Data Analyst,Pathao,Dhaka,,,Negotiable,4,"Python, SQL, Statistics, Power BI",BSc in CSE/Stats,2026-08-05,linkedin,,1,1,0,1,0,0,0,0,1,Senior (4+),Negotiable
+BDJ-1492,Data Analyst,Rokomari,Dhaka,,,Negotiable,4,"Excel, SQL, Dashboard, ETL",BBA/MBA,2026-09-01,careerjet,,1,0,1,0,0,0,1,1,0,Senior (4+),Negotiable
+BDJ-1493,Data Analyst - Power BI,Banglalink,Dhaka,35000.0,45000.0,Tk. 35000-45000,5,"SQL, Power BI, Excel",BBA/MBA,2026-08-10,linkedin,40000.0,1,1,1,0,0,0,0,0,0,Senior (4+),35-50k
+BDJ-1494,Business Intelligence Analyst,ACI,Dhaka,,,Negotiable,4,"Python, SQL, Statistics, Power BI",BSc in CSE/Stats,2026-09-13,linkedin,,1,1,0,1,0,0,0,0,1,Senior (4+),Negotiable
+BDJ-1495,Data Analyst,Daraz,Chittagong,20000.0,35000.0,Tk. 20000-35000,4,"SQL, Power BI, Excel",BSc in CSE/Stats,2026-08-21,careerjet,27500.0,1,1,1,0,0,0,0,0,0,Senior (4+),25-35k
+BDJ-1496,Growth Data Analyst,Banglalink,Dhaka,,,Negotiable,4,"Python, SQL, Statistics, Power BI",MSc,2026-08-15,careerjet,,1,1,0,1,0,0,0,0,1,Senior (4+),Negotiable
+BDJ-1497,Data Analyst,Rokomari,Dhaka,50000.0,65000.0,Tk. 50000-65000,2,"Excel, SQL, Dashboard, ETL",BSc in CSE/Stats,2026-09-14,linkedin,57500.0,1,0,1,0,0,0,1,1,0,Mid (2-3),50-70k
+BDJ-1498,Growth Data Analyst,Well Group,Dhaka,35000.0,45000.0,Tk. 35000-45000,0,"SQL, Python, Tableau, Excel",MSc,2026-09-13,bdjobs,40000.0,1,0,1,1,1,0,0,0,0,Fresher (0-1),35-50k
+BDJ-1499,Junior Data Analyst,Pathao,Dhaka,40000.0,55000.0,Tk. 40000-55000,4,"SQL, Excel, Power BI, Looker",BBA/MBA,2026-08-09,careerjet,47500.0,1,1,1,0,0,0,0,0,0,Senior (4+),35-50k

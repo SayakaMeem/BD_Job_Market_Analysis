@@ -1,0 +1,21 @@
+
+=== Power BI DAX Measures for Dashboard ===
+
+Total Jobs = COUNTROWS(jobs)
+Avg Salary = AVERAGE(jobs[salary_avg])
+Median Salary = MEDIAN(jobs[salary_avg])
+Salary Disclosure % = DIVIDE(COUNT(jobs[salary_avg]), COUNTROWS(jobs))
+
+Has SQL % = DIVIDE(CALCULATE(COUNTROWS(jobs), jobs[has_sql]=1), [Total Jobs])
+Fabric Premium = 
+VAR AvgWith = CALCULATE([Avg Salary], jobs[has_fabric]=1)
+VAR AvgWithout = CALCULATE([Avg Salary], jobs[has_fabric]=0)
+RETURN DIVIDE(AvgWith-AvgWithout, AvgWithout)
+
+Exp vs Salary Insight = 
+SWITCH(TRUE(),
+[MAX Exp]=0, "Fresher avg 22k",
+[MAX Exp]<=2, "Biggest jump at 2 yrs -> 45k",
+"Senior 60k+")
+
+-- For Skill % Bar Chart: Use Unpivot of has_* columns in Power Query
